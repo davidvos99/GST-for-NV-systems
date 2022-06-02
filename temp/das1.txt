@@ -1,0 +1,3331 @@
+## Outcomes = 0, 1
+Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 321  679
+
+Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 676  324
+
+Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 679  321
+
+Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 990  10
+
+Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 632  368  325  675
+
+Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 636  364
+
+Gi:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 315  685
+
+Gi:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 663  337
+
+Gi:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 652  348
+
+Gi:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 992  8  651  349
+
+Gi:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0  1  1  2  2
+outcomes: 0  1  0  1  0  1
+repetitions: 612  388  320  680  620  380
+
+Gi:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 630  370
+
+Gxpi2:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 679  321
+
+Gxpi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 661  339
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0  1  1  2  2  3  3
+outcomes: 0  1  0  1  0  1  0  1
+repetitions: 324  676  651  349  668  332  978  22
+
+Gxpi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 635  365
+
+Gypi2:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 659  341
+
+Gypi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 672  328
+
+Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 987  13
+
+Gypi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 621  379  652  348
+
+Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0  1  1  2  2
+outcomes: 0  1  0  1  0  1
+repetitions: 666  334  641  359  649  351
+
+Gypi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 319  681
+
+Gxpi2:0Gxpi2:0Gi:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 982  18  672  328
+
+Gxpi2:0Gxpi2:0Gypi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 656  344  672  328
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0  1  1  2  2  3  3  4  4  5  5
+outcomes: 0  1  0  1  0  1  0  1  0  1  0  1
+repetitions: 724  276  989  11  973  27  989  11  677  323  678  322
+
+Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 669  331  700  300
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gi:0@(0)
+times: 0  0  1  1  2  2
+outcomes: 0  1  0  1  0  1
+repetitions: 617  383  339  661  608  392
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0@(0)
+times: 0  0  1  1  2  2
+outcomes: 0  1  0  1  0  1
+repetitions: 659  341  696  304  659  341
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0  1  1  2  2  3  3  4  4  5  5  6  6
+outcomes: 0  1  0  1  0  1  0  1  0  1  0  1  0  1
+repetitions: 974  26  636  364  650  350  350  650  320  680  326  674  975  25
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0  1  1  2  2
+outcomes: 0  1  0  1  0  1
+repetitions: 646  354  622  378  656  344
+
+Gypi2:0Gypi2:0Gypi2:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 628  372
+
+Gypi2:0Gypi2:0Gypi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 634  366
+
+Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 667  333  659  341
+
+Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0  1  1  2  2
+outcomes: 0  1  0  1  0  1
+repetitions: 655  345  633  367  638  362
+
+Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 973  27
+
+Gi:0Gi:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 326  674
+
+Gi:0Gi:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 677  323
+
+Gi:0Gi:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 648  352
+
+Gi:0Gi:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 984  16
+
+Gi:0Gi:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 615  385
+
+Gi:0Gi:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 633  367
+
+Gxpi2:0Gi:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 657  343
+
+Gxpi2:0Gi:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 985  15
+
+Gxpi2:0Gi:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 659  341
+
+Gxpi2:0Gi:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 647  353
+
+Gxpi2:0Gi:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 339  661
+
+Gxpi2:0Gi:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 664  336
+
+Gypi2:0Gi:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 623  377
+
+Gypi2:0Gi:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 646  354
+
+Gypi2:0Gi:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 988  12
+
+Gypi2:0Gi:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 647  353
+
+Gypi2:0Gi:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 682  318
+
+Gypi2:0Gi:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 318  682
+
+Gxpi2:0Gxpi2:0Gi:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 989  11
+
+Gxpi2:0Gxpi2:0Gi:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 647  353
+
+Gxpi2:0Gxpi2:0Gi:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 657  343
+
+Gxpi2:0Gxpi2:0Gi:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 293  707
+
+Gxpi2:0Gxpi2:0Gi:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 699  301
+
+Gxpi2:0Gxpi2:0Gi:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 700  300
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gi:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 621  379
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gi:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 350  650
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gi:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 658  342
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gi:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 731  269
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gi:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 965  35
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gi:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 669  331
+
+Gypi2:0Gypi2:0Gypi2:0Gi:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 629  371
+
+Gypi2:0Gypi2:0Gypi2:0Gi:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 658  342
+
+Gypi2:0Gypi2:0Gypi2:0Gi:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 313  687
+
+Gypi2:0Gypi2:0Gypi2:0Gi:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 669  331
+
+Gypi2:0Gypi2:0Gypi2:0Gi:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 651  349
+
+Gypi2:0Gypi2:0Gypi2:0Gi:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 971  29
+
+Gi:0Gxpi2:0Gi:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 664  336  991  9
+
+Gi:0Gxpi2:0Gypi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 682  318  622  378
+
+Gi:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0  1  1  2  2
+outcomes: 0  1  0  1  0  1
+repetitions: 323  677  688  312  985  15
+
+Gi:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 656  344  704  296
+
+Gypi2:0Gxpi2:0Gi:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 660  340  688  312
+
+Gypi2:0Gxpi2:0Gypi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 981  19  993  7
+
+Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0  1  1  2  2
+outcomes: 0  1  0  1  0  1
+repetitions: 666  334  659  341  673  327
+
+Gypi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 338  662  335  665
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gi:0@(0)
+times: 0  0  1  1  2  2
+outcomes: 0  1  0  1  0  1
+repetitions: 323  677  679  321  987  13
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0@(0)
+times: 0  0  1  1  2  2
+outcomes: 0  1  0  1  0  1
+repetitions: 697  303  669  331  622  378
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0  1  1  2  2  3  3  4  4  5  5
+outcomes: 0  1  0  1  0  1  0  1  0  1  0  1
+repetitions: 577  423  318  682  653  347  667  333  732  268  724  276
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0  1  1  2  2
+outcomes: 0  1  0  1  0  1
+repetitions: 592  408  668  332  689  311
+
+Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gi:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 637  363  684  316
+
+Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gypi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 356  644  305  695
+
+Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0  1  1  2  2
+outcomes: 0  1  0  1  0  1
+repetitions: 610  390  649  351  674  326
+
+Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 974  26  988  12
+
+Gi:0Gypi2:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 654  346
+
+Gi:0Gypi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 644  356
+
+Gi:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 988  12
+
+Gi:0Gypi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 693  307
+
+Gi:0Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 652  348
+
+Gi:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 350  650
+
+Gxpi2:0Gypi2:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 655  345
+
+Gxpi2:0Gypi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 984  16
+
+Gxpi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 652  348
+
+Gxpi2:0Gypi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 638  362
+
+Gxpi2:0Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 345  655
+
+Gxpi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 670  330
+
+Gypi2:0Gypi2:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 982  18
+
+Gypi2:0Gypi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 646  354
+
+Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 315  685
+
+Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 698  302
+
+Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 727  273
+
+Gxpi2:0Gxpi2:0Gypi2:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 661  339
+
+Gxpi2:0Gxpi2:0Gypi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 621  379
+
+Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 322  678
+
+Gxpi2:0Gxpi2:0Gypi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 694  306
+
+Gxpi2:0Gxpi2:0Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 657  343
+
+Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 982  18
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 670  330
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 342  658
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 701  299
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 684  316
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 988  12
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 643  357
+
+Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 322  678
+
+Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 651  349
+
+Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 984  16
+
+Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 633  367
+
+Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 590  410
+
+Gi:0Gypi:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 987  13
+
+Gi:0Gypi:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 661  339
+
+Gi:0Gypi:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 692  308
+
+Gi:0Gypi:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 302  698
+
+Gi:0Gypi:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 667  333
+
+Gi:0Gypi:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 695  305
+
+Gxpi2:0Gypi:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 651  349
+
+Gxpi2:0Gypi:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 997  3
+
+Gxpi2:0Gypi:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 632  368
+
+Gxpi2:0Gypi:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 626  374
+
+Gxpi2:0Gypi:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 326  674
+
+Gxpi2:0Gypi:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 623  377
+
+Gypi2:0Gypi:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 693  307
+
+Gypi2:0Gypi:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 657  343
+
+Gypi2:0Gypi:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 337  663
+
+Gypi2:0Gypi:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 621  379
+
+Gypi2:0Gypi:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 658  342
+
+Gypi2:0Gypi:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 987  13
+
+Gxpi2:0Gxpi2:0Gypi:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 315  685
+
+Gxpi2:0Gxpi2:0Gypi:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 668  332
+
+Gxpi2:0Gxpi2:0Gypi:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 647  353
+
+Gxpi2:0Gxpi2:0Gypi:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 992  8
+
+Gxpi2:0Gxpi2:0Gypi:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 666  334
+
+Gxpi2:0Gxpi2:0Gypi:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 659  341
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gypi:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 702  298
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gypi:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 335  665
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gypi:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 631  369
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gypi:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 642  358
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gypi:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 997  3
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gypi:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 675  325
+
+Gypi2:0Gypi2:0Gypi2:0Gypi:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 676  324
+
+Gypi2:0Gypi2:0Gypi2:0Gypi:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 624  376
+
+Gypi2:0Gypi2:0Gypi2:0Gypi:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 982  18
+
+Gypi2:0Gypi2:0Gypi2:0Gypi:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 660  340
+
+Gypi2:0Gypi2:0Gypi2:0Gypi:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 682  318
+
+Gypi2:0Gypi2:0Gypi2:0Gypi:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 322  678
+
+Gi:0Gi:0Gi:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 331  669
+
+Gi:0Gi:0Gi:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 678  322
+
+Gi:0Gi:0Gi:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 658  342
+
+Gi:0Gi:0Gi:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 978  22
+
+Gi:0Gi:0Gi:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 639  361
+
+Gi:0Gi:0Gi:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 636  364
+
+Gxpi2:0Gi:0Gi:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 679  321
+
+Gxpi2:0Gi:0Gi:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 990  10
+
+Gxpi2:0Gi:0Gi:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 662  338
+
+Gxpi2:0Gi:0Gi:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 623  377
+
+Gxpi2:0Gi:0Gi:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 335  665
+
+Gxpi2:0Gi:0Gi:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 645  355
+
+Gypi2:0Gi:0Gi:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 666  334
+
+Gypi2:0Gi:0Gi:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 632  368
+
+Gypi2:0Gi:0Gi:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 986  14
+
+Gypi2:0Gi:0Gi:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 629  371
+
+Gypi2:0Gi:0Gi:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 663  337
+
+Gypi2:0Gi:0Gi:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 337  663
+
+Gxpi2:0Gxpi2:0Gi:0Gi:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 986  14
+
+Gxpi2:0Gxpi2:0Gi:0Gi:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 588  412
+
+Gxpi2:0Gxpi2:0Gi:0Gi:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 635  365
+
+Gxpi2:0Gxpi2:0Gi:0Gi:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 326  674
+
+Gxpi2:0Gxpi2:0Gi:0Gi:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 726  274
+
+Gxpi2:0Gxpi2:0Gi:0Gi:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 702  298
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gi:0Gi:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 616  384
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gi:0Gi:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 337  663
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gi:0Gi:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 655  345
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gi:0Gi:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 727  273
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gi:0Gi:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 970  30
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gi:0Gi:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 657  343
+
+Gypi2:0Gypi2:0Gypi2:0Gi:0Gi:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 632  368
+
+Gypi2:0Gypi2:0Gypi2:0Gi:0Gi:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 667  333
+
+Gypi2:0Gypi2:0Gypi2:0Gi:0Gi:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 330  670
+
+Gypi2:0Gypi2:0Gypi2:0Gi:0Gi:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 652  348
+
+Gypi2:0Gypi2:0Gypi2:0Gi:0Gi:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 659  341
+
+Gypi2:0Gypi2:0Gypi2:0Gi:0Gi:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 968  32
+
+Gi:0Gxpi2:0Gxpi2:0Gi:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 985  15  322  678
+
+Gi:0Gxpi2:0Gxpi2:0Gypi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 664  336  690  310
+
+Gi:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0  1  1  2  2
+outcomes: 0  1  0  1  0  1
+repetitions: 723  277  641  359  570  430
+
+Gi:0Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 704  296  615  385
+
+Gypi2:0Gxpi2:0Gxpi2:0Gi:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 666  334  653  347
+
+Gypi2:0Gxpi2:0Gxpi2:0Gypi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 994  6  983  17
+
+Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0  1  1  2  2
+outcomes: 0  1  0  1  0  1
+repetitions: 665  335  653  347  637  363
+
+Gypi2:0Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 350  650  324  676
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gi:0@(0)
+times: 0  0  1  1  2  2
+outcomes: 0  1  0  1  0  1
+repetitions: 724  276  691  309  579  421
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0@(0)
+times: 0  0  1  1  2  2
+outcomes: 0  1  0  1  0  1
+repetitions: 667  333  660  340  682  318
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0  1  1  2  2  3  3  4  4
+outcomes: 0  1  0  1  0  1  0  1  0  1
+repetitions: 357  643  985  15  341  659  341  659  331  669
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0  1  1  2  2
+outcomes: 0  1  0  1  0  1
+repetitions: 624  376  638  362  630  370
+
+Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0Gi:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 680  320  619  381
+
+Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0Gypi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 336  664  328  672
+
+Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0  1  1  2  2
+outcomes: 0  1  0  1  0  1
+repetitions: 649  351  663  337  641  359
+
+Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 989  11  972  28
+
+Gi:0Gypi2:0Gypi2:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 972  28
+
+Gi:0Gypi2:0Gypi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 651  349
+
+Gi:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 350  650
+
+Gi:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 689  311
+
+Gi:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 705  295
+
+Gxpi2:0Gypi2:0Gypi2:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 657  343
+
+Gxpi2:0Gypi2:0Gypi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 990  10
+
+Gxpi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 654  346
+
+Gxpi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 338  662
+
+Gxpi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 678  322
+
+Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 325  675
+
+Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 653  347
+
+Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 975  25
+
+Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 640  360
+
+Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 592  408
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 668  332
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 327  673
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 647  353
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 988  12
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 689  311
+
+Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 701  299
+
+Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 653  347
+
+Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 609  391
+
+Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 689  311
+
+Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 333  667
+
+Gi:0Gypi:0Gypi:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 355  645
+
+Gi:0Gypi:0Gypi:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 661  339
+
+Gi:0Gypi:0Gypi:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 616  384
+
+Gi:0Gypi:0Gypi:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 974  26
+
+Gi:0Gypi:0Gypi:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 631  369
+
+Gi:0Gypi:0Gypi:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 631  369
+
+Gxpi2:0Gypi:0Gypi:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 658  342
+
+Gxpi2:0Gypi:0Gypi:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 991  9
+
+Gxpi2:0Gypi:0Gypi:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 673  327
+
+Gxpi2:0Gypi:0Gypi:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 612  388
+
+Gxpi2:0Gypi:0Gypi:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 371  629
+
+Gxpi2:0Gypi:0Gypi:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 640  360
+
+Gypi2:0Gypi:0Gypi:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 602  398
+
+Gypi2:0Gypi:0Gypi:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 664  336
+
+Gypi2:0Gypi:0Gypi:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 981  19
+
+Gypi2:0Gypi:0Gypi:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 744  256
+
+Gypi2:0Gypi:0Gypi:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 646  354
+
+Gypi2:0Gypi:0Gypi:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 343  657
+
+Gxpi2:0Gxpi2:0Gypi:0Gypi:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 981  19
+
+Gxpi2:0Gxpi2:0Gypi:0Gypi:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 603  397
+
+Gxpi2:0Gxpi2:0Gypi:0Gypi:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 725  275
+
+Gxpi2:0Gxpi2:0Gypi:0Gypi:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 354  646
+
+Gxpi2:0Gxpi2:0Gypi:0Gypi:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 695  305
+
+Gxpi2:0Gxpi2:0Gypi:0Gypi:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 667  333
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gypi:0Gypi:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 605  395
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gypi:0Gypi:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 330  670
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gypi:0Gypi:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 653  347
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gypi:0Gypi:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 707  293
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gypi:0Gypi:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 967  33
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gypi:0Gypi:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 665  335
+
+Gypi2:0Gypi2:0Gypi2:0Gypi:0Gypi:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 673  327
+
+Gypi2:0Gypi2:0Gypi2:0Gypi:0Gypi:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 630  370
+
+Gypi2:0Gypi2:0Gypi2:0Gypi:0Gypi:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 325  675
+
+Gypi2:0Gypi2:0Gypi2:0Gypi:0Gypi:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 603  397
+
+Gypi2:0Gypi2:0Gypi2:0Gypi:0Gypi:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 654  346
+
+Gypi2:0Gypi2:0Gypi2:0Gypi:0Gypi:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 971  29
+
+Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 338  662
+
+Gi:0Gi:0Gi:0Gi:0Gi:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 656  344
+
+Gi:0Gi:0Gi:0Gi:0Gi:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 654  346
+
+Gi:0Gi:0Gi:0Gi:0Gi:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 982  18
+
+Gi:0Gi:0Gi:0Gi:0Gi:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 622  378
+
+Gi:0Gi:0Gi:0Gi:0Gi:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 637  363
+
+Gxpi2:0Gi:0Gi:0Gi:0Gi:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 665  335
+
+Gxpi2:0Gi:0Gi:0Gi:0Gi:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 991  9
+
+Gxpi2:0Gi:0Gi:0Gi:0Gi:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 642  358
+
+Gxpi2:0Gi:0Gi:0Gi:0Gi:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 663  337
+
+Gxpi2:0Gi:0Gi:0Gi:0Gi:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 308  692
+
+Gxpi2:0Gi:0Gi:0Gi:0Gi:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 646  354
+
+Gypi2:0Gi:0Gi:0Gi:0Gi:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 673  327
+
+Gypi2:0Gi:0Gi:0Gi:0Gi:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 649  351
+
+Gypi2:0Gi:0Gi:0Gi:0Gi:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 996  4
+
+Gypi2:0Gi:0Gi:0Gi:0Gi:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 654  346
+
+Gypi2:0Gi:0Gi:0Gi:0Gi:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 636  364
+
+Gypi2:0Gi:0Gi:0Gi:0Gi:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 358  642
+
+Gxpi2:0Gxpi2:0Gi:0Gi:0Gi:0Gi:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 986  14
+
+Gxpi2:0Gxpi2:0Gi:0Gi:0Gi:0Gi:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 676  324
+
+Gxpi2:0Gxpi2:0Gi:0Gi:0Gi:0Gi:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 706  294
+
+Gxpi2:0Gxpi2:0Gi:0Gi:0Gi:0Gi:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 317  683
+
+Gxpi2:0Gxpi2:0Gi:0Gi:0Gi:0Gi:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 668  332
+
+Gxpi2:0Gxpi2:0Gi:0Gi:0Gi:0Gi:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 649  351
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gi:0Gi:0Gi:0Gi:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 635  365
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gi:0Gi:0Gi:0Gi:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 334  666
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gi:0Gi:0Gi:0Gi:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 665  335
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gi:0Gi:0Gi:0Gi:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 680  320
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gi:0Gi:0Gi:0Gi:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 973  27
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gi:0Gi:0Gi:0Gi:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 634  366
+
+Gypi2:0Gypi2:0Gypi2:0Gi:0Gi:0Gi:0Gi:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 606  394
+
+Gypi2:0Gypi2:0Gypi2:0Gi:0Gi:0Gi:0Gi:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 635  365
+
+Gypi2:0Gypi2:0Gypi2:0Gi:0Gi:0Gi:0Gi:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 317  683
+
+Gypi2:0Gypi2:0Gypi2:0Gi:0Gi:0Gi:0Gi:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 687  313
+
+Gypi2:0Gypi2:0Gypi2:0Gi:0Gi:0Gi:0Gi:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 660  340
+
+Gypi2:0Gypi2:0Gypi2:0Gi:0Gi:0Gi:0Gi:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 981  19
+
+Gi:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gi:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 347  653  346  654
+
+Gi:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 664  336  663  337
+
+Gi:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 973  27  982  18
+
+Gi:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 563  437  711  289
+
+Gi:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 636  364  605  395
+
+Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gi:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 661  339  652  348
+
+Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 984  16  992  8
+
+Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 660  340  657  343
+
+Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 683  317  663  337
+
+Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 329  671  329  671
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gi:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 970  30  972  28
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 651  349  634  366
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0  1  1  2  2
+outcomes: 0  1  0  1  0  1
+repetitions: 773  227  584  416  607  393
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 669  331  675  325
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gi:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 589  411  726  274
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 651  349  648  352
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0  1  1  2  2
+outcomes: 0  1  0  1  0  1
+repetitions: 960  40  971  29  927  73
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 647  353  648  352
+
+Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gi:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 626  374  662  338
+
+Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 326  674  341  659
+
+Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 685  315  667  333
+
+Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 676  324  658  342
+
+Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 982  18  968  32
+
+Gi:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 325  675
+
+Gi:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 664  336
+
+Gi:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 987  13
+
+Gi:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 600  400
+
+Gi:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 597  403
+
+Gxpi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 655  345
+
+Gxpi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 980  20
+
+Gxpi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 632  368
+
+Gxpi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 314  686
+
+Gxpi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 632  368
+
+Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 982  18
+
+Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 638  362
+
+Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 364  636
+
+Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 721  279
+
+Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 741  259
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 629  371
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 346  654
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 698  302
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 984  16
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 641  359
+
+Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 584  416
+
+Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 650  350
+
+Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 751  249
+
+Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 628  372
+
+Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 957  43
+
+Gi:0Gypi:0Gypi:0Gypi:0Gypi:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 325  675
+
+Gi:0Gypi:0Gypi:0Gypi:0Gypi:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 641  359
+
+Gi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 569  431
+
+Gi:0Gypi:0Gypi:0Gypi:0Gypi:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 972  28
+
+Gi:0Gypi:0Gypi:0Gypi:0Gypi:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 592  408
+
+Gi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 687  313
+
+Gxpi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 672  328
+
+Gxpi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 987  13
+
+Gxpi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 666  334
+
+Gxpi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 621  379
+
+Gxpi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 350  650
+
+Gxpi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 657  343
+
+Gypi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 569  431
+
+Gypi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 668  332
+
+Gypi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 969  31
+
+Gypi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 784  216
+
+Gypi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 647  353
+
+Gypi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 338  662
+
+Gxpi2:0Gxpi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 972  28
+
+Gxpi2:0Gxpi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 612  388
+
+Gxpi2:0Gxpi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 738  262
+
+Gxpi2:0Gxpi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 368  632
+
+Gxpi2:0Gxpi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 694  306
+
+Gxpi2:0Gxpi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 579  421
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 627  373
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 347  653
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 672  328
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 712  288
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 963  37
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 646  354
+
+Gypi2:0Gypi2:0Gypi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 732  268
+
+Gypi2:0Gypi2:0Gypi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 648  352
+
+Gypi2:0Gypi2:0Gypi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 349  651
+
+Gypi2:0Gypi2:0Gypi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 584  416
+
+Gypi2:0Gypi2:0Gypi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 640  360
+
+Gypi2:0Gypi2:0Gypi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 985  15
+
+Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 303  697
+
+Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 657  343
+
+Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 696  304
+
+Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 988  12
+
+Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 627  373
+
+Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 618  382
+
+Gxpi2:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 674  326
+
+Gxpi2:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 984  16
+
+Gxpi2:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 637  363
+
+Gxpi2:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 670  330
+
+Gxpi2:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 301  699
+
+Gxpi2:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 677  323
+
+Gypi2:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 684  316
+
+Gypi2:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 644  356
+
+Gypi2:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 988  12
+
+Gypi2:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 631  369
+
+Gypi2:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 643  357
+
+Gypi2:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 340  660
+
+Gxpi2:0Gxpi2:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 989  11
+
+Gxpi2:0Gxpi2:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 674  326
+
+Gxpi2:0Gxpi2:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 663  337
+
+Gxpi2:0Gxpi2:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 338  662
+
+Gxpi2:0Gxpi2:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 686  314
+
+Gxpi2:0Gxpi2:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 669  331
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 657  343
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 338  662
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 672  328
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 653  347
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 984  16
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 657  343
+
+Gypi2:0Gypi2:0Gypi2:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 650  350
+
+Gypi2:0Gypi2:0Gypi2:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 606  394
+
+Gypi2:0Gypi2:0Gypi2:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 331  669
+
+Gypi2:0Gypi2:0Gypi2:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 683  317
+
+Gypi2:0Gypi2:0Gypi2:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 659  341
+
+Gypi2:0Gypi2:0Gypi2:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 974  26
+
+Gi:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gi:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 342  658  373  627
+
+Gi:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 726  274  491  509
+
+Gi:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 679  321  668  332
+
+Gi:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 975  25  954  46
+
+Gi:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 554  446  802  198
+
+Gi:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 616  384  625  375
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gi:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 771  229  446  554
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 660  340  688  312
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0  1  1  2  2
+outcomes: 0  1  0  1  0  1
+repetitions: 562  438  820  180  833  167
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0  1  1  2  2  3  3
+outcomes: 0  1  0  1  0  1  0  1
+repetitions: 323  677  362  638  357  643  410  590
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 658  342  642  358
+
+Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gi:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 667  333  649  351
+
+Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 660  340  632  368
+
+Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 992  8  986  14
+
+Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 644  356  632  368
+
+Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 681  319  670  330
+
+Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 336  664  373  627
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gi:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 975  25  906  94
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 617  383  661  339
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0  1  1  2  2
+outcomes: 0  1  0  1  0  1
+repetitions: 802  198  534  466  513  487
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 717  283  697  303
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gi:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 533  467  843  157
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 661  339  655  345
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 941  59  963  37
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 657  343  692  308
+
+Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gi:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 638  362  650  350
+
+Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 653  347  655  345
+
+Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 331  669  341  659
+
+Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 670  330  665  335
+
+Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 633  367  702  298
+
+Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 981  19  975  25
+
+Gi:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 367  633
+
+Gi:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 657  343
+
+Gi:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 741  259
+
+Gi:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 970  30
+
+Gi:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 658  342
+
+Gi:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 558  442
+
+Gxpi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 672  328
+
+Gxpi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 988  12
+
+Gxpi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 656  344
+
+Gxpi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 624  376
+
+Gxpi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 340  660
+
+Gxpi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 658  342
+
+Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 715  285
+
+Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 654  346
+
+Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 559  441
+
+Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 665  335
+
+Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 322  678
+
+Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 967  33
+
+Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 638  362
+
+Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 550  450
+
+Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 349  651
+
+Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 692  308
+
+Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 769  231
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 631  369
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 339  661
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 664  336
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 706  294
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 989  11
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 654  346
+
+Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 526  474
+
+Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 661  339
+
+Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 748  252
+
+Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 646  354
+
+Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 956  44
+
+Gi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 412  588
+
+Gi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 646  354
+
+Gi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 483  517
+
+Gi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 913  87
+
+Gi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 627  373
+
+Gi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 815  185
+
+Gxpi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 652  348
+
+Gxpi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 980  20
+
+Gxpi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 666  334
+
+Gxpi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 637  363
+
+Gxpi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 328  672
+
+Gxpi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 655  345
+
+Gypi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 470  530
+
+Gypi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 654  346
+
+Gypi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 906  94
+
+Gypi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 869  131
+
+Gypi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 645  355
+
+Gypi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 376  624
+
+Gxpi2:0Gxpi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 912  88
+
+Gxpi2:0Gxpi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 639  361
+
+Gxpi2:0Gxpi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 837  163
+
+Gxpi2:0Gxpi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 400  600
+
+Gxpi2:0Gxpi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 700  300
+
+Gxpi2:0Gxpi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 465  535
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 639  361
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 360  640
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 658  342
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 718  282
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 973  27
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 652  348
+
+Gypi2:0Gypi2:0Gypi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 837  163
+
+Gypi2:0Gypi2:0Gypi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 674  326
+
+Gypi2:0Gypi2:0Gypi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 356  644
+
+Gypi2:0Gypi2:0Gypi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 456  544
+
+Gypi2:0Gypi2:0Gypi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 694  306
+
+Gypi2:0Gypi2:0Gypi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 948  52
+
+Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 301  699
+
+Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 662  338
+
+Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 658  342
+
+Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 986  14
+
+Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 630  370
+
+Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 636  364
+
+Gxpi2:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 631  369
+
+Gxpi2:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 987  13
+
+Gxpi2:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 646  354
+
+Gxpi2:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 675  325
+
+Gxpi2:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 322  678
+
+Gxpi2:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 701  299
+
+Gypi2:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 647  353
+
+Gypi2:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 711  289
+
+Gypi2:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 982  18
+
+Gypi2:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 646  354
+
+Gypi2:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 610  390
+
+Gypi2:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 355  645
+
+Gxpi2:0Gxpi2:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 988  12
+
+Gxpi2:0Gxpi2:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 644  356
+
+Gxpi2:0Gxpi2:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 675  325
+
+Gxpi2:0Gxpi2:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 358  642
+
+Gxpi2:0Gxpi2:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 686  314
+
+Gxpi2:0Gxpi2:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 638  362
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 645  355
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 317  683
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 723  277
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 699  301
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 974  26
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 610  390
+
+Gypi2:0Gypi2:0Gypi2:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 646  354
+
+Gypi2:0Gypi2:0Gypi2:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 618  382
+
+Gypi2:0Gypi2:0Gypi2:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 327  673
+
+Gypi2:0Gypi2:0Gypi2:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 710  290
+
+Gypi2:0Gypi2:0Gypi2:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 732  268
+
+Gypi2:0Gypi2:0Gypi2:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gi:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 975  25
+
+Gi:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gi:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 397  603  504  496
+
+Gi:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 843  157  369  631
+
+Gi:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 652  348  689  311
+
+Gi:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 935  65  867  133
+
+Gi:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 459  541  924  76
+
+Gi:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 614  386  670  330
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gi:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 844  156  366  634
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 922  78  795  205
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 658  342  708  292
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0  1  1  2  2
+outcomes: 0  1  0  1  0  1
+repetitions: 437  563  951  49  946  54
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0  1  1  2  2  3  3
+outcomes: 0  1  0  1  0  1  0  1
+repetitions: 427  573  502  498  505  495  484  516
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 685  315  609  391
+
+Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gi:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 632  368  676  324
+
+Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 647  353  653  347
+
+Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 988  12  994  6
+
+Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 651  349  626  374
+
+Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 673  327  654  346
+
+Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 349  651  348  652
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gi:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 927  73  814  186
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 630  370  672  328
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0  1  1  2  2
+outcomes: 0  1  0  1  0  1
+repetitions: 890  110  411  589  445  555
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 679  321  668  332
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gi:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 471  529  934  66
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 695  305  688  312
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 886  114  834  166
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 630  370  727  273
+
+Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gi:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 636  364  695  305
+
+Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 666  334  691  309
+
+Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 347  653  356  644
+
+Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 665  335  689  311
+
+Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 664  336  707  293
+
+Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0  1  1
+outcomes: 0  1  0  1
+repetitions: 970  30  983  17
+
+Gi:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 382  618
+
+Gi:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 636  364
+
+Gi:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 858  142
+
+Gi:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 941  59
+
+Gi:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 626  374
+
+Gi:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 437  563
+
+Gxpi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 696  304
+
+Gxpi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 987  13
+
+Gxpi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 655  345
+
+Gxpi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 605  395
+
+Gxpi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 332  668
+
+Gxpi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 677  323
+
+Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 848  152
+
+Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 636  364
+
+Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 909  91
+
+Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 483  517
+
+Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 729  271
+
+Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 444  556
+
+Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 923  77
+
+Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 656  344
+
+Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 461  539
+
+Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 385  615
+
+Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 715  285
+
+Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 891  109
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 632  368
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 370  630
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 702  298
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 711  289
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 971  29
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 646  354
+
+Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 489  511
+
+Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 665  335
+
+Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 875  125
+
+Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 678  322
+
+Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 872  128
+
+Gi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 574  426
+
+Gi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 663  337
+
+Gi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 391  609
+
+Gi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 800  200
+
+Gi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 678  322
+
+Gi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 948  52
+
+Gxpi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 679  321
+
+Gxpi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 995  5
+
+Gxpi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 680  320
+
+Gxpi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 653  347
+
+Gxpi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 366  634
+
+Gxpi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 650  350
+
+Gypi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 390  610
+
+Gypi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 679  321
+
+Gypi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 790  210
+
+Gypi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 963  37
+
+Gypi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 657  343
+
+Gypi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 548  452
+
+Gxpi2:0Gxpi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 799  201
+
+Gxpi2:0Gxpi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 650  350
+
+Gxpi2:0Gxpi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 950  50
+
+Gxpi2:0Gxpi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 579  421
+
+Gxpi2:0Gxpi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 706  294
+
+Gxpi2:0Gxpi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 390  610
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 653  347
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 378  622
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 672  328
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 736  264
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 985  15
+
+Gxpi2:0Gxpi2:0Gxpi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 705  295
+
+Gypi2:0Gypi2:0Gypi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gi:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 953  47
+
+Gypi2:0Gypi2:0Gypi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 646  354
+
+Gypi2:0Gypi2:0Gypi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 516  484
+
+Gypi2:0Gypi2:0Gypi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 410  590
+
+Gypi2:0Gypi2:0Gypi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gxpi2:0Gxpi2:0Gxpi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 735  265
+
+Gypi2:0Gypi2:0Gypi2:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi:0Gypi2:0Gypi2:0Gypi2:0@(0)
+times: 0  0
+outcomes: 0  1
+repetitions: 866  134
+

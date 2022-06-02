@@ -1,0 +1,705 @@
+# 1 qubit 5 gates. Circuit depth: [1, 2, 4, 8, 16]
+# Preparation fiducials: ['{}', 'Gx ', 'Gy ', 'Gx_pi ']
+# Measurement fiducials: ['{}', 'Gx ', 'Gy ']
+# Constructed germ set: ['Gi ', 'Gx ', 'Gy ', 'Gx_pi ', 'Gy_pi ', 'Gx_pi Gy_pi ', 'Gi Gi Gi Gi Gy_pi Gx ', 'Gx Gy ', 'Gx Gy Gy_pi ', 'Gx Gx_pi Gy_pi ', 'Gy Gy Gx_pi Gy Gy_pi ', 'Gi Gi Gi Gi Gi Gx ', 'Gi Gi Gx_pi Gx Gy_pi Gx_pi ', 'Gy Gx_pi Gy_pi ', 'Gx Gx Gy Gx_pi Gx Gx_pi ', 'Gi Gi Gi Gi Gy Gx_pi ', 'Gx Gx Gy_pi Gy Gx Gy_pi ', 'Gx Gx_pi Gy_pi Gx_pi Gy ', 'Gx Gx_pi Gx_pi Gx Gy_pi ', 'Gi Gi Gi Gx_pi Gx Gy ']
+{}
+Gx 
+Gy 
+Gx_pi 
+Gx Gx 
+Gx Gy 
+Gy Gx 
+Gy Gy 
+Gx_pi Gx 
+Gx_pi Gy 
+(Gi )
+(Gi )Gx 
+(Gi )Gy 
+Gx (Gi )
+Gx (Gi )Gx 
+Gx (Gi )Gy 
+Gy (Gi )
+Gy (Gi )Gx 
+Gy (Gi )Gy 
+Gx_pi (Gi )
+Gx_pi (Gi )Gx 
+Gx_pi (Gi )Gy 
+Gx (Gx )Gx 
+Gx (Gx )Gy 
+Gy (Gx )Gx 
+Gy (Gx )Gy 
+Gx_pi (Gx )Gx 
+Gx_pi (Gx )Gy 
+Gx (Gy )Gx 
+Gx (Gy )Gy 
+Gy (Gy )Gx 
+Gy (Gy )Gy 
+Gx_pi (Gy )Gx 
+Gx_pi (Gy )Gy 
+Gx (Gx_pi )
+Gx (Gx_pi )Gx 
+Gx (Gx_pi )Gy 
+Gy (Gx_pi )
+Gy (Gx_pi )Gx 
+Gy (Gx_pi )Gy 
+Gx_pi (Gx_pi )
+Gx_pi (Gx_pi )Gx 
+Gx_pi (Gx_pi )Gy 
+(Gy_pi )
+(Gy_pi )Gx 
+(Gy_pi )Gy 
+Gx (Gy_pi )
+Gx (Gy_pi )Gx 
+Gx (Gy_pi )Gy 
+Gy (Gy_pi )
+Gy (Gy_pi )Gx 
+Gy (Gy_pi )Gy 
+Gx_pi (Gy_pi )
+Gx_pi (Gy_pi )Gx 
+Gx_pi (Gy_pi )Gy 
+(Gi )^2
+(Gi )^2Gx 
+(Gi )^2Gy 
+Gx (Gi )^2
+Gx (Gi )^2Gx 
+Gx (Gi )^2Gy 
+Gy (Gi )^2
+Gy (Gi )^2Gx 
+Gy (Gi )^2Gy 
+Gx_pi (Gi )^2
+Gx_pi (Gi )^2Gx 
+Gx_pi (Gi )^2Gy 
+Gx (Gx )^2Gx 
+Gx (Gx )^2Gy 
+Gy (Gx )^2Gx 
+Gy (Gx )^2Gy 
+Gx_pi (Gx )^2Gx 
+Gx_pi (Gx )^2Gy 
+Gx (Gy )^2Gx 
+Gx (Gy )^2Gy 
+Gy (Gy )^2Gx 
+Gy (Gy )^2Gy 
+Gx_pi (Gy )^2Gx 
+Gx_pi (Gy )^2Gy 
+Gx (Gx_pi )^2
+Gx (Gx_pi )^2Gx 
+Gx (Gx_pi )^2Gy 
+Gy (Gx_pi )^2
+Gy (Gx_pi )^2Gx 
+Gy (Gx_pi )^2Gy 
+Gx_pi (Gx_pi )^2
+Gx_pi (Gx_pi )^2Gx 
+Gx_pi (Gx_pi )^2Gy 
+(Gy_pi )^2
+(Gy_pi )^2Gx 
+(Gy_pi )^2Gy 
+Gx (Gy_pi )^2
+Gx (Gy_pi )^2Gx 
+Gx (Gy_pi )^2Gy 
+Gy (Gy_pi )^2
+Gy (Gy_pi )^2Gx 
+Gy (Gy_pi )^2Gy 
+Gx_pi (Gy_pi )^2
+Gx_pi (Gy_pi )^2Gx 
+Gx_pi (Gy_pi )^2Gy 
+Gx (Gx_pi Gy_pi )
+Gx (Gx_pi Gy_pi )Gx 
+Gx (Gx_pi Gy_pi )Gy 
+Gy (Gx_pi Gy_pi )
+Gy (Gx_pi Gy_pi )Gx 
+Gy (Gx_pi Gy_pi )Gy 
+Gx_pi (Gx_pi Gy_pi )
+Gx_pi (Gx_pi Gy_pi )Gx 
+Gx_pi (Gx_pi Gy_pi )Gy 
+Gx (Gx Gy )Gx 
+Gx (Gx Gy )Gy 
+Gy (Gx Gy )Gx 
+Gy (Gx Gy )Gy 
+Gx_pi (Gx Gy )Gx 
+Gx_pi (Gx Gy )Gy 
+(Gi )^4
+(Gi )^4Gx 
+(Gi )^4Gy 
+Gx (Gi )^4
+Gx (Gi )^4Gx 
+Gx (Gi )^4Gy 
+Gy (Gi )^4
+Gy (Gi )^4Gx 
+Gy (Gi )^4Gy 
+Gx_pi (Gi )^4
+Gx_pi (Gi )^4Gx 
+Gx_pi (Gi )^4Gy 
+(Gx )^4Gx 
+(Gx )^4Gy 
+Gx (Gx )^4Gx 
+Gx (Gx )^4Gy 
+Gy (Gx )^4
+Gy (Gx )^4Gx 
+Gy (Gx )^4Gy 
+Gx_pi (Gx )^4
+Gx_pi (Gx )^4Gx 
+Gx_pi (Gx )^4Gy 
+(Gy )^4Gx 
+(Gy )^4Gy 
+Gx (Gy )^4
+Gx (Gy )^4Gx 
+Gx (Gy )^4Gy 
+Gy (Gy )^4Gx 
+Gy (Gy )^4Gy 
+Gx_pi (Gy )^4
+Gx_pi (Gy )^4Gx 
+Gx_pi (Gy )^4Gy 
+(Gx_pi )^4
+(Gx_pi )^4Gx 
+(Gx_pi )^4Gy 
+Gx (Gx_pi )^4
+Gx (Gx_pi )^4Gx 
+Gx (Gx_pi )^4Gy 
+Gy (Gx_pi )^4
+Gy (Gx_pi )^4Gx 
+Gy (Gx_pi )^4Gy 
+Gx_pi (Gx_pi )^4
+Gx_pi (Gx_pi )^4Gx 
+Gx_pi (Gx_pi )^4Gy 
+(Gy_pi )^4
+(Gy_pi )^4Gx 
+(Gy_pi )^4Gy 
+Gx (Gy_pi )^4
+Gx (Gy_pi )^4Gx 
+Gx (Gy_pi )^4Gy 
+Gy (Gy_pi )^4
+Gy (Gy_pi )^4Gx 
+Gy (Gy_pi )^4Gy 
+Gx_pi (Gy_pi )^4
+Gx_pi (Gy_pi )^4Gx 
+Gx_pi (Gy_pi )^4Gy 
+(Gx_pi Gy_pi )^2
+(Gx_pi Gy_pi )^2Gx 
+(Gx_pi Gy_pi )^2Gy 
+Gx (Gx_pi Gy_pi )^2
+Gx (Gx_pi Gy_pi )^2Gx 
+Gx (Gx_pi Gy_pi )^2Gy 
+Gy (Gx_pi Gy_pi )^2
+Gy (Gx_pi Gy_pi )^2Gx 
+Gy (Gx_pi Gy_pi )^2Gy 
+Gx_pi (Gx_pi Gy_pi )^2
+Gx_pi (Gx_pi Gy_pi )^2Gx 
+Gx_pi (Gx_pi Gy_pi )^2Gy 
+(Gx Gy )^2
+(Gx Gy )^2Gx 
+(Gx Gy )^2Gy 
+Gx (Gx Gy )^2
+Gx (Gx Gy )^2Gx 
+Gx (Gx Gy )^2Gy 
+Gy (Gx Gy )^2
+Gy (Gx Gy )^2Gx 
+Gy (Gx Gy )^2Gy 
+Gx_pi (Gx Gy )^2
+Gx_pi (Gx Gy )^2Gx 
+Gx_pi (Gx Gy )^2Gy 
+(Gx Gy Gy_pi )
+(Gx Gy Gy_pi )Gx 
+(Gx Gy Gy_pi )Gy 
+Gx (Gx Gy Gy_pi )
+Gx (Gx Gy Gy_pi )Gx 
+Gx (Gx Gy Gy_pi )Gy 
+Gy (Gx Gy Gy_pi )
+Gy (Gx Gy Gy_pi )Gx 
+Gy (Gx Gy Gy_pi )Gy 
+Gx_pi (Gx Gy Gy_pi )
+Gx_pi (Gx Gy Gy_pi )Gx 
+Gx_pi (Gx Gy Gy_pi )Gy 
+Gx (Gx Gx_pi Gy_pi )
+Gx (Gx Gx_pi Gy_pi )Gx 
+Gx (Gx Gx_pi Gy_pi )Gy 
+Gy (Gx Gx_pi Gy_pi )
+Gy (Gx Gx_pi Gy_pi )Gx 
+Gy (Gx Gx_pi Gy_pi )Gy 
+Gx_pi (Gx Gx_pi Gy_pi )
+Gx_pi (Gx Gx_pi Gy_pi )Gx 
+Gx_pi (Gx Gx_pi Gy_pi )Gy 
+Gx (Gy Gx_pi Gy_pi )
+Gx (Gy Gx_pi Gy_pi )Gx 
+Gx (Gy Gx_pi Gy_pi )Gy 
+Gy (Gy Gx_pi Gy_pi )
+Gy (Gy Gx_pi Gy_pi )Gx 
+Gy (Gy Gx_pi Gy_pi )Gy 
+Gx_pi (Gy Gx_pi Gy_pi )
+Gx_pi (Gy Gx_pi Gy_pi )Gx 
+Gx_pi (Gy Gx_pi Gy_pi )Gy 
+(Gi )^8
+(Gi )^8Gx 
+(Gi )^8Gy 
+Gx (Gi )^8
+Gx (Gi )^8Gx 
+Gx (Gi )^8Gy 
+Gy (Gi )^8
+Gy (Gi )^8Gx 
+Gy (Gi )^8Gy 
+Gx_pi (Gi )^8
+Gx_pi (Gi )^8Gx 
+Gx_pi (Gi )^8Gy 
+(Gx )^8
+(Gx )^8Gx 
+(Gx )^8Gy 
+Gx (Gx )^8Gx 
+Gx (Gx )^8Gy 
+Gy (Gx )^8
+Gy (Gx )^8Gx 
+Gy (Gx )^8Gy 
+Gx_pi (Gx )^8
+Gx_pi (Gx )^8Gx 
+Gx_pi (Gx )^8Gy 
+(Gy )^8
+(Gy )^8Gx 
+(Gy )^8Gy 
+Gx (Gy )^8
+Gx (Gy )^8Gx 
+Gx (Gy )^8Gy 
+Gy (Gy )^8Gx 
+Gy (Gy )^8Gy 
+Gx_pi (Gy )^8
+Gx_pi (Gy )^8Gx 
+Gx_pi (Gy )^8Gy 
+(Gx_pi )^8
+(Gx_pi )^8Gx 
+(Gx_pi )^8Gy 
+Gx (Gx_pi )^8
+Gx (Gx_pi )^8Gx 
+Gx (Gx_pi )^8Gy 
+Gy (Gx_pi )^8
+Gy (Gx_pi )^8Gx 
+Gy (Gx_pi )^8Gy 
+Gx_pi (Gx_pi )^8
+Gx_pi (Gx_pi )^8Gx 
+Gx_pi (Gx_pi )^8Gy 
+(Gy_pi )^8
+(Gy_pi )^8Gx 
+(Gy_pi )^8Gy 
+Gx (Gy_pi )^8
+Gx (Gy_pi )^8Gx 
+Gx (Gy_pi )^8Gy 
+Gy (Gy_pi )^8
+Gy (Gy_pi )^8Gx 
+Gy (Gy_pi )^8Gy 
+Gx_pi (Gy_pi )^8
+Gx_pi (Gy_pi )^8Gx 
+Gx_pi (Gy_pi )^8Gy 
+(Gx_pi Gy_pi )^4
+(Gx_pi Gy_pi )^4Gx 
+(Gx_pi Gy_pi )^4Gy 
+Gx (Gx_pi Gy_pi )^4
+Gx (Gx_pi Gy_pi )^4Gx 
+Gx (Gx_pi Gy_pi )^4Gy 
+Gy (Gx_pi Gy_pi )^4
+Gy (Gx_pi Gy_pi )^4Gx 
+Gy (Gx_pi Gy_pi )^4Gy 
+Gx_pi (Gx_pi Gy_pi )^4
+Gx_pi (Gx_pi Gy_pi )^4Gx 
+Gx_pi (Gx_pi Gy_pi )^4Gy 
+(Gi Gi Gi Gi Gy_pi Gx )
+(Gi Gi Gi Gi Gy_pi Gx )Gx 
+(Gi Gi Gi Gi Gy_pi Gx )Gy 
+Gx (Gi Gi Gi Gi Gy_pi Gx )
+Gx (Gi Gi Gi Gi Gy_pi Gx )Gx 
+Gx (Gi Gi Gi Gi Gy_pi Gx )Gy 
+Gy (Gi Gi Gi Gi Gy_pi Gx )
+Gy (Gi Gi Gi Gi Gy_pi Gx )Gx 
+Gy (Gi Gi Gi Gi Gy_pi Gx )Gy 
+Gx_pi (Gi Gi Gi Gi Gy_pi Gx )
+Gx_pi (Gi Gi Gi Gi Gy_pi Gx )Gx 
+Gx_pi (Gi Gi Gi Gi Gy_pi Gx )Gy 
+(Gx Gy )^4
+(Gx Gy )^4Gx 
+(Gx Gy )^4Gy 
+Gx (Gx Gy )^4
+Gx (Gx Gy )^4Gx 
+Gx (Gx Gy )^4Gy 
+Gy (Gx Gy )^4
+Gy (Gx Gy )^4Gx 
+Gy (Gx Gy )^4Gy 
+Gx_pi (Gx Gy )^4
+Gx_pi (Gx Gy )^4Gx 
+Gx_pi (Gx Gy )^4Gy 
+(Gx Gy Gy_pi )^2
+(Gx Gy Gy_pi )^2Gx 
+(Gx Gy Gy_pi )^2Gy 
+Gx (Gx Gy Gy_pi )^2
+Gx (Gx Gy Gy_pi )^2Gx 
+Gx (Gx Gy Gy_pi )^2Gy 
+Gy (Gx Gy Gy_pi )^2
+Gy (Gx Gy Gy_pi )^2Gx 
+Gy (Gx Gy Gy_pi )^2Gy 
+Gx_pi (Gx Gy Gy_pi )^2
+Gx_pi (Gx Gy Gy_pi )^2Gx 
+Gx_pi (Gx Gy Gy_pi )^2Gy 
+(Gx Gx_pi Gy_pi )^2
+(Gx Gx_pi Gy_pi )^2Gx 
+(Gx Gx_pi Gy_pi )^2Gy 
+Gx (Gx Gx_pi Gy_pi )^2
+Gx (Gx Gx_pi Gy_pi )^2Gx 
+Gx (Gx Gx_pi Gy_pi )^2Gy 
+Gy (Gx Gx_pi Gy_pi )^2
+Gy (Gx Gx_pi Gy_pi )^2Gx 
+Gy (Gx Gx_pi Gy_pi )^2Gy 
+Gx_pi (Gx Gx_pi Gy_pi )^2
+Gx_pi (Gx Gx_pi Gy_pi )^2Gx 
+Gx_pi (Gx Gx_pi Gy_pi )^2Gy 
+(Gy Gy Gx_pi Gy Gy_pi )
+(Gy Gy Gx_pi Gy Gy_pi )Gx 
+(Gy Gy Gx_pi Gy Gy_pi )Gy 
+Gx (Gy Gy Gx_pi Gy Gy_pi )
+Gx (Gy Gy Gx_pi Gy Gy_pi )Gx 
+Gx (Gy Gy Gx_pi Gy Gy_pi )Gy 
+Gy (Gy Gy Gx_pi Gy Gy_pi )
+Gy (Gy Gy Gx_pi Gy Gy_pi )Gx 
+Gy (Gy Gy Gx_pi Gy Gy_pi )Gy 
+Gx_pi (Gy Gy Gx_pi Gy Gy_pi )
+Gx_pi (Gy Gy Gx_pi Gy Gy_pi )Gx 
+Gx_pi (Gy Gy Gx_pi Gy Gy_pi )Gy 
+(Gi Gi Gi Gi Gi Gx )
+(Gi Gi Gi Gi Gi Gx )Gx 
+(Gi Gi Gi Gi Gi Gx )Gy 
+Gx (Gi Gi Gi Gi Gi Gx )
+Gx (Gi Gi Gi Gi Gi Gx )Gx 
+Gx (Gi Gi Gi Gi Gi Gx )Gy 
+Gy (Gi Gi Gi Gi Gi Gx )
+Gy (Gi Gi Gi Gi Gi Gx )Gx 
+Gy (Gi Gi Gi Gi Gi Gx )Gy 
+Gx_pi (Gi Gi Gi Gi Gi Gx )
+Gx_pi (Gi Gi Gi Gi Gi Gx )Gx 
+Gx_pi (Gi Gi Gi Gi Gi Gx )Gy 
+(Gi Gi Gx_pi Gx Gy_pi Gx_pi )
+(Gi Gi Gx_pi Gx Gy_pi Gx_pi )Gx 
+(Gi Gi Gx_pi Gx Gy_pi Gx_pi )Gy 
+Gx (Gi Gi Gx_pi Gx Gy_pi Gx_pi )
+Gx (Gi Gi Gx_pi Gx Gy_pi Gx_pi )Gx 
+Gx (Gi Gi Gx_pi Gx Gy_pi Gx_pi )Gy 
+Gy (Gi Gi Gx_pi Gx Gy_pi Gx_pi )
+Gy (Gi Gi Gx_pi Gx Gy_pi Gx_pi )Gx 
+Gy (Gi Gi Gx_pi Gx Gy_pi Gx_pi )Gy 
+Gx_pi (Gi Gi Gx_pi Gx Gy_pi Gx_pi )
+Gx_pi (Gi Gi Gx_pi Gx Gy_pi Gx_pi )Gx 
+Gx_pi (Gi Gi Gx_pi Gx Gy_pi Gx_pi )Gy 
+(Gy Gx_pi Gy_pi )^2
+(Gy Gx_pi Gy_pi )^2Gx 
+(Gy Gx_pi Gy_pi )^2Gy 
+Gx (Gy Gx_pi Gy_pi )^2
+Gx (Gy Gx_pi Gy_pi )^2Gx 
+Gx (Gy Gx_pi Gy_pi )^2Gy 
+Gy (Gy Gx_pi Gy_pi )^2
+Gy (Gy Gx_pi Gy_pi )^2Gx 
+Gy (Gy Gx_pi Gy_pi )^2Gy 
+Gx_pi (Gy Gx_pi Gy_pi )^2
+Gx_pi (Gy Gx_pi Gy_pi )^2Gx 
+Gx_pi (Gy Gx_pi Gy_pi )^2Gy 
+(Gx Gx Gy Gx_pi Gx Gx_pi )
+(Gx Gx Gy Gx_pi Gx Gx_pi )Gx 
+(Gx Gx Gy Gx_pi Gx Gx_pi )Gy 
+Gx (Gx Gx Gy Gx_pi Gx Gx_pi )
+Gx (Gx Gx Gy Gx_pi Gx Gx_pi )Gx 
+Gx (Gx Gx Gy Gx_pi Gx Gx_pi )Gy 
+Gy (Gx Gx Gy Gx_pi Gx Gx_pi )
+Gy (Gx Gx Gy Gx_pi Gx Gx_pi )Gx 
+Gy (Gx Gx Gy Gx_pi Gx Gx_pi )Gy 
+Gx_pi (Gx Gx Gy Gx_pi Gx Gx_pi )
+Gx_pi (Gx Gx Gy Gx_pi Gx Gx_pi )Gx 
+Gx_pi (Gx Gx Gy Gx_pi Gx Gx_pi )Gy 
+(Gi Gi Gi Gi Gy Gx_pi )
+(Gi Gi Gi Gi Gy Gx_pi )Gx 
+(Gi Gi Gi Gi Gy Gx_pi )Gy 
+Gx (Gi Gi Gi Gi Gy Gx_pi )
+Gx (Gi Gi Gi Gi Gy Gx_pi )Gx 
+Gx (Gi Gi Gi Gi Gy Gx_pi )Gy 
+Gy (Gi Gi Gi Gi Gy Gx_pi )
+Gy (Gi Gi Gi Gi Gy Gx_pi )Gx 
+Gy (Gi Gi Gi Gi Gy Gx_pi )Gy 
+Gx_pi (Gi Gi Gi Gi Gy Gx_pi )
+Gx_pi (Gi Gi Gi Gi Gy Gx_pi )Gx 
+Gx_pi (Gi Gi Gi Gi Gy Gx_pi )Gy 
+(Gx Gx Gy_pi Gy Gx Gy_pi )
+(Gx Gx Gy_pi Gy Gx Gy_pi )Gx 
+(Gx Gx Gy_pi Gy Gx Gy_pi )Gy 
+Gx (Gx Gx Gy_pi Gy Gx Gy_pi )
+Gx (Gx Gx Gy_pi Gy Gx Gy_pi )Gx 
+Gx (Gx Gx Gy_pi Gy Gx Gy_pi )Gy 
+Gy (Gx Gx Gy_pi Gy Gx Gy_pi )
+Gy (Gx Gx Gy_pi Gy Gx Gy_pi )Gx 
+Gy (Gx Gx Gy_pi Gy Gx Gy_pi )Gy 
+Gx_pi (Gx Gx Gy_pi Gy Gx Gy_pi )
+Gx_pi (Gx Gx Gy_pi Gy Gx Gy_pi )Gx 
+Gx_pi (Gx Gx Gy_pi Gy Gx Gy_pi )Gy 
+(Gx Gx_pi Gy_pi Gx_pi Gy )
+(Gx Gx_pi Gy_pi Gx_pi Gy )Gx 
+(Gx Gx_pi Gy_pi Gx_pi Gy )Gy 
+Gx (Gx Gx_pi Gy_pi Gx_pi Gy )
+Gx (Gx Gx_pi Gy_pi Gx_pi Gy )Gx 
+Gx (Gx Gx_pi Gy_pi Gx_pi Gy )Gy 
+Gy (Gx Gx_pi Gy_pi Gx_pi Gy )
+Gy (Gx Gx_pi Gy_pi Gx_pi Gy )Gx 
+Gy (Gx Gx_pi Gy_pi Gx_pi Gy )Gy 
+Gx_pi (Gx Gx_pi Gy_pi Gx_pi Gy )
+Gx_pi (Gx Gx_pi Gy_pi Gx_pi Gy )Gx 
+Gx_pi (Gx Gx_pi Gy_pi Gx_pi Gy )Gy 
+(Gx Gx_pi Gx_pi Gx Gy_pi )
+(Gx Gx_pi Gx_pi Gx Gy_pi )Gx 
+(Gx Gx_pi Gx_pi Gx Gy_pi )Gy 
+Gx (Gx Gx_pi Gx_pi Gx Gy_pi )
+Gx (Gx Gx_pi Gx_pi Gx Gy_pi )Gx 
+Gx (Gx Gx_pi Gx_pi Gx Gy_pi )Gy 
+Gy (Gx Gx_pi Gx_pi Gx Gy_pi )
+Gy (Gx Gx_pi Gx_pi Gx Gy_pi )Gx 
+Gy (Gx Gx_pi Gx_pi Gx Gy_pi )Gy 
+Gx_pi (Gx Gx_pi Gx_pi Gx Gy_pi )
+Gx_pi (Gx Gx_pi Gx_pi Gx Gy_pi )Gx 
+Gx_pi (Gx Gx_pi Gx_pi Gx Gy_pi )Gy 
+(Gi Gi Gi Gx_pi Gx Gy )
+(Gi Gi Gi Gx_pi Gx Gy )Gx 
+(Gi Gi Gi Gx_pi Gx Gy )Gy 
+Gx (Gi Gi Gi Gx_pi Gx Gy )
+Gx (Gi Gi Gi Gx_pi Gx Gy )Gx 
+Gx (Gi Gi Gi Gx_pi Gx Gy )Gy 
+Gy (Gi Gi Gi Gx_pi Gx Gy )
+Gy (Gi Gi Gi Gx_pi Gx Gy )Gx 
+Gy (Gi Gi Gi Gx_pi Gx Gy )Gy 
+Gx_pi (Gi Gi Gi Gx_pi Gx Gy )
+Gx_pi (Gi Gi Gi Gx_pi Gx Gy )Gx 
+Gx_pi (Gi Gi Gi Gx_pi Gx Gy )Gy 
+(Gi )^16
+(Gi )^16Gx 
+(Gi )^16Gy 
+Gx (Gi )^16
+Gx (Gi )^16Gx 
+Gx (Gi )^16Gy 
+Gy (Gi )^16
+Gy (Gi )^16Gx 
+Gy (Gi )^16Gy 
+Gx_pi (Gi )^16
+Gx_pi (Gi )^16Gx 
+Gx_pi (Gi )^16Gy 
+(Gx )^16
+(Gx )^16Gx 
+(Gx )^16Gy 
+Gx (Gx )^16Gx 
+Gx (Gx )^16Gy 
+Gy (Gx )^16
+Gy (Gx )^16Gx 
+Gy (Gx )^16Gy 
+Gx_pi (Gx )^16
+Gx_pi (Gx )^16Gx 
+Gx_pi (Gx )^16Gy 
+(Gy )^16
+(Gy )^16Gx 
+(Gy )^16Gy 
+Gx (Gy )^16
+Gx (Gy )^16Gx 
+Gx (Gy )^16Gy 
+Gy (Gy )^16Gx 
+Gy (Gy )^16Gy 
+Gx_pi (Gy )^16
+Gx_pi (Gy )^16Gx 
+Gx_pi (Gy )^16Gy 
+(Gx_pi )^16
+(Gx_pi )^16Gx 
+(Gx_pi )^16Gy 
+Gx (Gx_pi )^16
+Gx (Gx_pi )^16Gx 
+Gx (Gx_pi )^16Gy 
+Gy (Gx_pi )^16
+Gy (Gx_pi )^16Gx 
+Gy (Gx_pi )^16Gy 
+Gx_pi (Gx_pi )^16
+Gx_pi (Gx_pi )^16Gx 
+Gx_pi (Gx_pi )^16Gy 
+(Gy_pi )^16
+(Gy_pi )^16Gx 
+(Gy_pi )^16Gy 
+Gx (Gy_pi )^16
+Gx (Gy_pi )^16Gx 
+Gx (Gy_pi )^16Gy 
+Gy (Gy_pi )^16
+Gy (Gy_pi )^16Gx 
+Gy (Gy_pi )^16Gy 
+Gx_pi (Gy_pi )^16
+Gx_pi (Gy_pi )^16Gx 
+Gx_pi (Gy_pi )^16Gy 
+(Gx_pi Gy_pi )^8
+(Gx_pi Gy_pi )^8Gx 
+(Gx_pi Gy_pi )^8Gy 
+Gx (Gx_pi Gy_pi )^8
+Gx (Gx_pi Gy_pi )^8Gx 
+Gx (Gx_pi Gy_pi )^8Gy 
+Gy (Gx_pi Gy_pi )^8
+Gy (Gx_pi Gy_pi )^8Gx 
+Gy (Gx_pi Gy_pi )^8Gy 
+Gx_pi (Gx_pi Gy_pi )^8
+Gx_pi (Gx_pi Gy_pi )^8Gx 
+Gx_pi (Gx_pi Gy_pi )^8Gy 
+(Gi Gi Gi Gi Gy_pi Gx )^2
+(Gi Gi Gi Gi Gy_pi Gx )^2Gx 
+(Gi Gi Gi Gi Gy_pi Gx )^2Gy 
+Gx (Gi Gi Gi Gi Gy_pi Gx )^2
+Gx (Gi Gi Gi Gi Gy_pi Gx )^2Gx 
+Gx (Gi Gi Gi Gi Gy_pi Gx )^2Gy 
+Gy (Gi Gi Gi Gi Gy_pi Gx )^2
+Gy (Gi Gi Gi Gi Gy_pi Gx )^2Gx 
+Gy (Gi Gi Gi Gi Gy_pi Gx )^2Gy 
+Gx_pi (Gi Gi Gi Gi Gy_pi Gx )^2
+Gx_pi (Gi Gi Gi Gi Gy_pi Gx )^2Gx 
+Gx_pi (Gi Gi Gi Gi Gy_pi Gx )^2Gy 
+(Gx Gy )^8
+(Gx Gy )^8Gx 
+(Gx Gy )^8Gy 
+Gx (Gx Gy )^8
+Gx (Gx Gy )^8Gx 
+Gx (Gx Gy )^8Gy 
+Gy (Gx Gy )^8
+Gy (Gx Gy )^8Gx 
+Gy (Gx Gy )^8Gy 
+Gx_pi (Gx Gy )^8
+Gx_pi (Gx Gy )^8Gx 
+Gx_pi (Gx Gy )^8Gy 
+(Gx Gy Gy_pi )^5
+(Gx Gy Gy_pi )^5Gx 
+(Gx Gy Gy_pi )^5Gy 
+Gx (Gx Gy Gy_pi )^5
+Gx (Gx Gy Gy_pi )^5Gx 
+Gx (Gx Gy Gy_pi )^5Gy 
+Gy (Gx Gy Gy_pi )^5
+Gy (Gx Gy Gy_pi )^5Gx 
+Gy (Gx Gy Gy_pi )^5Gy 
+Gx_pi (Gx Gy Gy_pi )^5
+Gx_pi (Gx Gy Gy_pi )^5Gx 
+Gx_pi (Gx Gy Gy_pi )^5Gy 
+(Gx Gx_pi Gy_pi )^5
+(Gx Gx_pi Gy_pi )^5Gx 
+(Gx Gx_pi Gy_pi )^5Gy 
+Gx (Gx Gx_pi Gy_pi )^5
+Gx (Gx Gx_pi Gy_pi )^5Gx 
+Gx (Gx Gx_pi Gy_pi )^5Gy 
+Gy (Gx Gx_pi Gy_pi )^5
+Gy (Gx Gx_pi Gy_pi )^5Gx 
+Gy (Gx Gx_pi Gy_pi )^5Gy 
+Gx_pi (Gx Gx_pi Gy_pi )^5
+Gx_pi (Gx Gx_pi Gy_pi )^5Gx 
+Gx_pi (Gx Gx_pi Gy_pi )^5Gy 
+(Gy Gy Gx_pi Gy Gy_pi )^3
+(Gy Gy Gx_pi Gy Gy_pi )^3Gx 
+(Gy Gy Gx_pi Gy Gy_pi )^3Gy 
+Gx (Gy Gy Gx_pi Gy Gy_pi )^3
+Gx (Gy Gy Gx_pi Gy Gy_pi )^3Gx 
+Gx (Gy Gy Gx_pi Gy Gy_pi )^3Gy 
+Gy (Gy Gy Gx_pi Gy Gy_pi )^3
+Gy (Gy Gy Gx_pi Gy Gy_pi )^3Gx 
+Gy (Gy Gy Gx_pi Gy Gy_pi )^3Gy 
+Gx_pi (Gy Gy Gx_pi Gy Gy_pi )^3
+Gx_pi (Gy Gy Gx_pi Gy Gy_pi )^3Gx 
+Gx_pi (Gy Gy Gx_pi Gy Gy_pi )^3Gy 
+(Gi Gi Gi Gi Gi Gx )^2
+(Gi Gi Gi Gi Gi Gx )^2Gx 
+(Gi Gi Gi Gi Gi Gx )^2Gy 
+Gx (Gi Gi Gi Gi Gi Gx )^2
+Gx (Gi Gi Gi Gi Gi Gx )^2Gx 
+Gx (Gi Gi Gi Gi Gi Gx )^2Gy 
+Gy (Gi Gi Gi Gi Gi Gx )^2
+Gy (Gi Gi Gi Gi Gi Gx )^2Gx 
+Gy (Gi Gi Gi Gi Gi Gx )^2Gy 
+Gx_pi (Gi Gi Gi Gi Gi Gx )^2
+Gx_pi (Gi Gi Gi Gi Gi Gx )^2Gx 
+Gx_pi (Gi Gi Gi Gi Gi Gx )^2Gy 
+(Gi Gi Gx_pi Gx Gy_pi Gx_pi )^2
+(Gi Gi Gx_pi Gx Gy_pi Gx_pi )^2Gx 
+(Gi Gi Gx_pi Gx Gy_pi Gx_pi )^2Gy 
+Gx (Gi Gi Gx_pi Gx Gy_pi Gx_pi )^2
+Gx (Gi Gi Gx_pi Gx Gy_pi Gx_pi )^2Gx 
+Gx (Gi Gi Gx_pi Gx Gy_pi Gx_pi )^2Gy 
+Gy (Gi Gi Gx_pi Gx Gy_pi Gx_pi )^2
+Gy (Gi Gi Gx_pi Gx Gy_pi Gx_pi )^2Gx 
+Gy (Gi Gi Gx_pi Gx Gy_pi Gx_pi )^2Gy 
+Gx_pi (Gi Gi Gx_pi Gx Gy_pi Gx_pi )^2
+Gx_pi (Gi Gi Gx_pi Gx Gy_pi Gx_pi )^2Gx 
+Gx_pi (Gi Gi Gx_pi Gx Gy_pi Gx_pi )^2Gy 
+(Gy Gx_pi Gy_pi )^5
+(Gy Gx_pi Gy_pi )^5Gx 
+(Gy Gx_pi Gy_pi )^5Gy 
+Gx (Gy Gx_pi Gy_pi )^5
+Gx (Gy Gx_pi Gy_pi )^5Gx 
+Gx (Gy Gx_pi Gy_pi )^5Gy 
+Gy (Gy Gx_pi Gy_pi )^5
+Gy (Gy Gx_pi Gy_pi )^5Gx 
+Gy (Gy Gx_pi Gy_pi )^5Gy 
+Gx_pi (Gy Gx_pi Gy_pi )^5
+Gx_pi (Gy Gx_pi Gy_pi )^5Gx 
+Gx_pi (Gy Gx_pi Gy_pi )^5Gy 
+(Gx Gx Gy Gx_pi Gx Gx_pi )^2
+(Gx Gx Gy Gx_pi Gx Gx_pi )^2Gx 
+(Gx Gx Gy Gx_pi Gx Gx_pi )^2Gy 
+Gx (Gx Gx Gy Gx_pi Gx Gx_pi )^2
+Gx (Gx Gx Gy Gx_pi Gx Gx_pi )^2Gx 
+Gx (Gx Gx Gy Gx_pi Gx Gx_pi )^2Gy 
+Gy (Gx Gx Gy Gx_pi Gx Gx_pi )^2
+Gy (Gx Gx Gy Gx_pi Gx Gx_pi )^2Gx 
+Gy (Gx Gx Gy Gx_pi Gx Gx_pi )^2Gy 
+Gx_pi (Gx Gx Gy Gx_pi Gx Gx_pi )^2
+Gx_pi (Gx Gx Gy Gx_pi Gx Gx_pi )^2Gx 
+Gx_pi (Gx Gx Gy Gx_pi Gx Gx_pi )^2Gy 
+(Gi Gi Gi Gi Gy Gx_pi )^2
+(Gi Gi Gi Gi Gy Gx_pi )^2Gx 
+(Gi Gi Gi Gi Gy Gx_pi )^2Gy 
+Gx (Gi Gi Gi Gi Gy Gx_pi )^2
+Gx (Gi Gi Gi Gi Gy Gx_pi )^2Gx 
+Gx (Gi Gi Gi Gi Gy Gx_pi )^2Gy 
+Gy (Gi Gi Gi Gi Gy Gx_pi )^2
+Gy (Gi Gi Gi Gi Gy Gx_pi )^2Gx 
+Gy (Gi Gi Gi Gi Gy Gx_pi )^2Gy 
+Gx_pi (Gi Gi Gi Gi Gy Gx_pi )^2
+Gx_pi (Gi Gi Gi Gi Gy Gx_pi )^2Gx 
+Gx_pi (Gi Gi Gi Gi Gy Gx_pi )^2Gy 
+(Gx Gx Gy_pi Gy Gx Gy_pi )^2
+(Gx Gx Gy_pi Gy Gx Gy_pi )^2Gx 
+(Gx Gx Gy_pi Gy Gx Gy_pi )^2Gy 
+Gx (Gx Gx Gy_pi Gy Gx Gy_pi )^2
+Gx (Gx Gx Gy_pi Gy Gx Gy_pi )^2Gx 
+Gx (Gx Gx Gy_pi Gy Gx Gy_pi )^2Gy 
+Gy (Gx Gx Gy_pi Gy Gx Gy_pi )^2
+Gy (Gx Gx Gy_pi Gy Gx Gy_pi )^2Gx 
+Gy (Gx Gx Gy_pi Gy Gx Gy_pi )^2Gy 
+Gx_pi (Gx Gx Gy_pi Gy Gx Gy_pi )^2
+Gx_pi (Gx Gx Gy_pi Gy Gx Gy_pi )^2Gx 
+Gx_pi (Gx Gx Gy_pi Gy Gx Gy_pi )^2Gy 
+(Gx Gx_pi Gy_pi Gx_pi Gy )^3
+(Gx Gx_pi Gy_pi Gx_pi Gy )^3Gx 
+(Gx Gx_pi Gy_pi Gx_pi Gy )^3Gy 
+Gx (Gx Gx_pi Gy_pi Gx_pi Gy )^3
+Gx (Gx Gx_pi Gy_pi Gx_pi Gy )^3Gx 
+Gx (Gx Gx_pi Gy_pi Gx_pi Gy )^3Gy 
+Gy (Gx Gx_pi Gy_pi Gx_pi Gy )^3
+Gy (Gx Gx_pi Gy_pi Gx_pi Gy )^3Gx 
+Gy (Gx Gx_pi Gy_pi Gx_pi Gy )^3Gy 
+Gx_pi (Gx Gx_pi Gy_pi Gx_pi Gy )^3
+Gx_pi (Gx Gx_pi Gy_pi Gx_pi Gy )^3Gx 
+Gx_pi (Gx Gx_pi Gy_pi Gx_pi Gy )^3Gy 
+(Gx Gx_pi Gx_pi Gx Gy_pi )^3
+(Gx Gx_pi Gx_pi Gx Gy_pi )^3Gx 
+(Gx Gx_pi Gx_pi Gx Gy_pi )^3Gy 
+Gx (Gx Gx_pi Gx_pi Gx Gy_pi )^3
+Gx (Gx Gx_pi Gx_pi Gx Gy_pi )^3Gx 
+Gx (Gx Gx_pi Gx_pi Gx Gy_pi )^3Gy 
+Gy (Gx Gx_pi Gx_pi Gx Gy_pi )^3
+Gy (Gx Gx_pi Gx_pi Gx Gy_pi )^3Gx 
+Gy (Gx Gx_pi Gx_pi Gx Gy_pi )^3Gy 
+Gx_pi (Gx Gx_pi Gx_pi Gx Gy_pi )^3
+Gx_pi (Gx Gx_pi Gx_pi Gx Gy_pi )^3Gx 
+Gx_pi (Gx Gx_pi Gx_pi Gx Gy_pi )^3Gy 
+(Gi Gi Gi Gx_pi Gx Gy )^2
+(Gi Gi Gi Gx_pi Gx Gy )^2Gx 
+(Gi Gi Gi Gx_pi Gx Gy )^2Gy 
+Gx (Gi Gi Gi Gx_pi Gx Gy )^2
+Gx (Gi Gi Gi Gx_pi Gx Gy )^2Gx 
+Gx (Gi Gi Gi Gx_pi Gx Gy )^2Gy 
+Gy (Gi Gi Gi Gx_pi Gx Gy )^2
+Gy (Gi Gi Gi Gx_pi Gx Gy )^2Gx 
+Gy (Gi Gi Gi Gx_pi Gx Gy )^2Gy 
+Gx_pi (Gi Gi Gi Gx_pi Gx Gy )^2
+Gx_pi (Gi Gi Gi Gx_pi Gx Gy )^2Gx 
+Gx_pi (Gi Gi Gi Gx_pi Gx Gy )^2Gy 

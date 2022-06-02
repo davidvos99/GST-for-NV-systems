@@ -1,0 +1,336 @@
+# 1 qubit 3 gates. Circuit depth: [1, 2, 4, 8, 16]
+# Preparation fiducials: ['{}', 'Gx ', 'Gy ', 'Gx Gx ']
+# Measurement fiducials: ['{}', 'Gx ', 'Gy ']
+# ['Gi ', 'Gx ', 'Gy ', 'Gi Gi Gi Gi Gi Gx ', 'Gx Gy ', 'Gi Gi Gi Gi Gx Gy ', 'Gi Gi Gi Gi Gy Gx ', 'Gi Gi Gy Gx Gx Gx ', 'Gx Gx Gy Gy Gx Gy ', 'Gi Gi Gx Gx Gx Gy ']
+{}
+Gx
+Gy 
+Gx Gx 
+Gx Gy 
+Gy Gx 
+Gy Gy 
+Gx Gx Gx 
+Gx Gx Gy 
+(Gi )
+(Gi )Gx 
+(Gi )Gy 
+Gx (Gi )
+Gx (Gi )Gx 
+Gx (Gi )Gy 
+Gy (Gi )
+Gy (Gi )Gx 
+Gy (Gi )Gy 
+Gx Gx (Gi )
+Gx Gx (Gi )Gx 
+Gx Gx (Gi )Gy 
+Gy (Gx )Gx 
+Gy (Gx )Gy 
+Gx Gx (Gx )Gx 
+Gx Gx (Gx )Gy 
+Gx (Gy )Gx 
+Gx (Gy )Gy 
+Gy (Gy )Gx 
+Gy (Gy )Gy 
+Gx Gx (Gy )Gx 
+Gx Gx (Gy )Gy 
+(Gi )^2
+(Gi )^2Gx 
+(Gi )^2Gy 
+Gx (Gi )^2
+Gx (Gi )^2Gx 
+Gx (Gi )^2Gy 
+Gy (Gi )^2
+Gy (Gi )^2Gx 
+Gy (Gi )^2Gy 
+Gx Gx (Gi )^2
+Gx Gx (Gi )^2Gx 
+Gx Gx (Gi )^2Gy 
+Gy (Gx )^2Gx 
+Gy (Gx )^2Gy 
+Gx Gx (Gx )^2Gx 
+Gx Gx (Gx )^2Gy 
+Gx (Gy )^2Gx 
+Gx (Gy )^2Gy 
+Gy (Gy )^2Gx 
+Gy (Gy )^2Gy 
+Gx Gx (Gy )^2Gx 
+Gx Gx (Gy )^2Gy 
+Gy (Gx Gy )Gx 
+Gy (Gx Gy )Gy 
+Gx Gx (Gx Gy )Gx 
+Gx Gx (Gx Gy )Gy 
+(Gi )^4
+(Gi )^4Gx 
+(Gi )^4Gy 
+Gx (Gi )^4
+Gx (Gi )^4Gx 
+Gx (Gi )^4Gy 
+Gy (Gi )^4
+Gy (Gi )^4Gx 
+Gy (Gi )^4Gy 
+Gx Gx (Gi )^4
+Gx Gx (Gi )^4Gx 
+Gx Gx (Gi )^4Gy 
+Gx (Gx )^4Gx 
+Gx (Gx )^4Gy 
+Gy (Gx )^4
+Gy (Gx )^4Gx 
+Gy (Gx )^4Gy 
+Gx Gx (Gx )^4Gx 
+Gx Gx (Gx )^4Gy 
+(Gy )^4Gx 
+(Gy )^4Gy 
+Gx (Gy )^4
+Gx (Gy )^4Gx 
+Gx (Gy )^4Gy 
+Gy (Gy )^4Gx 
+Gy (Gy )^4Gy 
+Gx Gx (Gy )^4
+Gx Gx (Gy )^4Gx 
+Gx Gx (Gy )^4Gy 
+(Gx Gy )^2
+(Gx Gy )^2Gx 
+(Gx Gy )^2Gy 
+Gx (Gx Gy )^2
+Gx (Gx Gy )^2Gx 
+Gx (Gx Gy )^2Gy 
+Gy (Gx Gy )^2
+Gy (Gx Gy )^2Gx 
+Gy (Gx Gy )^2Gy 
+Gx Gx (Gx Gy )^2
+Gx Gx (Gx Gy )^2Gx 
+Gx Gx (Gx Gy )^2Gy 
+(Gi )^8
+(Gi )^8Gx 
+(Gi )^8Gy 
+Gx (Gi )^8
+Gx (Gi )^8Gx 
+Gx (Gi )^8Gy 
+Gy (Gi )^8
+Gy (Gi )^8Gx 
+Gy (Gi )^8Gy 
+Gx Gx (Gi )^8
+Gx Gx (Gi )^8Gx 
+Gx Gx (Gi )^8Gy 
+(Gx )^8
+(Gx )^8Gx 
+(Gx )^8Gy 
+Gx (Gx )^8Gx 
+Gx (Gx )^8Gy 
+Gy (Gx )^8
+Gy (Gx )^8Gx 
+Gy (Gx )^8Gy 
+Gx Gx (Gx )^8Gx 
+Gx Gx (Gx )^8Gy 
+(Gy )^8
+(Gy )^8Gx 
+(Gy )^8Gy 
+Gx (Gy )^8
+Gx (Gy )^8Gx 
+Gx (Gy )^8Gy 
+Gy (Gy )^8Gx 
+Gy (Gy )^8Gy 
+Gx Gx (Gy )^8
+Gx Gx (Gy )^8Gx 
+Gx Gx (Gy )^8Gy 
+(Gi Gi Gi Gi Gi Gx )
+(Gi Gi Gi Gi Gi Gx )Gx 
+(Gi Gi Gi Gi Gi Gx )Gy 
+Gx (Gi Gi Gi Gi Gi Gx )
+Gx (Gi Gi Gi Gi Gi Gx )Gx 
+Gx (Gi Gi Gi Gi Gi Gx )Gy 
+Gy (Gi Gi Gi Gi Gi Gx )
+Gy (Gi Gi Gi Gi Gi Gx )Gx 
+Gy (Gi Gi Gi Gi Gi Gx )Gy 
+Gx Gx (Gi Gi Gi Gi Gi Gx )
+Gx Gx (Gi Gi Gi Gi Gi Gx )Gx 
+Gx Gx (Gi Gi Gi Gi Gi Gx )Gy 
+(Gx Gy )^4
+(Gx Gy )^4Gx 
+(Gx Gy )^4Gy 
+Gx (Gx Gy )^4
+Gx (Gx Gy )^4Gx 
+Gx (Gx Gy )^4Gy 
+Gy (Gx Gy )^4
+Gy (Gx Gy )^4Gx 
+Gy (Gx Gy )^4Gy 
+Gx Gx (Gx Gy )^4
+Gx Gx (Gx Gy )^4Gx 
+Gx Gx (Gx Gy )^4Gy 
+(Gi Gi Gi Gi Gx Gy )
+(Gi Gi Gi Gi Gx Gy )Gx 
+(Gi Gi Gi Gi Gx Gy )Gy 
+Gx (Gi Gi Gi Gi Gx Gy )
+Gx (Gi Gi Gi Gi Gx Gy )Gx 
+Gx (Gi Gi Gi Gi Gx Gy )Gy 
+Gy (Gi Gi Gi Gi Gx Gy )
+Gy (Gi Gi Gi Gi Gx Gy )Gx 
+Gy (Gi Gi Gi Gi Gx Gy )Gy 
+Gx Gx (Gi Gi Gi Gi Gx Gy )
+Gx Gx (Gi Gi Gi Gi Gx Gy )Gx 
+Gx Gx (Gi Gi Gi Gi Gx Gy )Gy 
+(Gi Gi Gi Gi Gy Gx )
+(Gi Gi Gi Gi Gy Gx )Gx 
+(Gi Gi Gi Gi Gy Gx )Gy 
+Gx (Gi Gi Gi Gi Gy Gx )
+Gx (Gi Gi Gi Gi Gy Gx )Gx 
+Gx (Gi Gi Gi Gi Gy Gx )Gy 
+Gy (Gi Gi Gi Gi Gy Gx )
+Gy (Gi Gi Gi Gi Gy Gx )Gx 
+Gy (Gi Gi Gi Gi Gy Gx )Gy 
+Gx Gx (Gi Gi Gi Gi Gy Gx )
+Gx Gx (Gi Gi Gi Gi Gy Gx )Gx 
+Gx Gx (Gi Gi Gi Gi Gy Gx )Gy 
+(Gi Gi Gy Gx Gx Gx )
+(Gi Gi Gy Gx Gx Gx )Gx 
+(Gi Gi Gy Gx Gx Gx )Gy 
+Gx (Gi Gi Gy Gx Gx Gx )
+Gx (Gi Gi Gy Gx Gx Gx )Gx 
+Gx (Gi Gi Gy Gx Gx Gx )Gy 
+Gy (Gi Gi Gy Gx Gx Gx )
+Gy (Gi Gi Gy Gx Gx Gx )Gx 
+Gy (Gi Gi Gy Gx Gx Gx )Gy 
+Gx Gx (Gi Gi Gy Gx Gx Gx )
+Gx Gx (Gi Gi Gy Gx Gx Gx )Gx 
+Gx Gx (Gi Gi Gy Gx Gx Gx )Gy 
+(Gx Gx Gy Gy Gx Gy )
+(Gx Gx Gy Gy Gx Gy )Gx 
+(Gx Gx Gy Gy Gx Gy )Gy 
+Gx (Gx Gx Gy Gy Gx Gy )
+Gx (Gx Gx Gy Gy Gx Gy )Gx 
+Gx (Gx Gx Gy Gy Gx Gy )Gy 
+Gy (Gx Gx Gy Gy Gx Gy )
+Gy (Gx Gx Gy Gy Gx Gy )Gx 
+Gy (Gx Gx Gy Gy Gx Gy )Gy 
+Gx Gx (Gx Gx Gy Gy Gx Gy )
+Gx Gx (Gx Gx Gy Gy Gx Gy )Gx 
+Gx Gx (Gx Gx Gy Gy Gx Gy )Gy 
+(Gi Gi Gx Gx Gx Gy )
+(Gi Gi Gx Gx Gx Gy )Gx 
+(Gi Gi Gx Gx Gx Gy )Gy 
+Gx (Gi Gi Gx Gx Gx Gy )
+Gx (Gi Gi Gx Gx Gx Gy )Gx 
+Gx (Gi Gi Gx Gx Gx Gy )Gy 
+Gy (Gi Gi Gx Gx Gx Gy )
+Gy (Gi Gi Gx Gx Gx Gy )Gx 
+Gy (Gi Gi Gx Gx Gx Gy )Gy 
+Gx Gx (Gi Gi Gx Gx Gx Gy )
+Gx Gx (Gi Gi Gx Gx Gx Gy )Gx 
+Gx Gx (Gi Gi Gx Gx Gx Gy )Gy 
+(Gi )^16
+(Gi )^16Gx 
+(Gi )^16Gy 
+Gx (Gi )^16
+Gx (Gi )^16Gx 
+Gx (Gi )^16Gy 
+Gy (Gi )^16
+Gy (Gi )^16Gx 
+Gy (Gi )^16Gy 
+Gx Gx (Gi )^16
+Gx Gx (Gi )^16Gx 
+Gx Gx (Gi )^16Gy 
+(Gx )^16
+(Gx )^16Gx 
+(Gx )^16Gy 
+Gx (Gx )^16Gx 
+Gx (Gx )^16Gy 
+Gy (Gx )^16
+Gy (Gx )^16Gx 
+Gy (Gx )^16Gy 
+Gx Gx (Gx )^16Gx 
+Gx Gx (Gx )^16Gy 
+(Gy )^16
+(Gy )^16Gx 
+(Gy )^16Gy 
+Gx (Gy )^16
+Gx (Gy )^16Gx 
+Gx (Gy )^16Gy 
+Gy (Gy )^16Gx 
+Gy (Gy )^16Gy 
+Gx Gx (Gy )^16
+Gx Gx (Gy )^16Gx 
+Gx Gx (Gy )^16Gy 
+(Gi Gi Gi Gi Gi Gx )^2
+(Gi Gi Gi Gi Gi Gx )^2Gx 
+(Gi Gi Gi Gi Gi Gx )^2Gy 
+Gx (Gi Gi Gi Gi Gi Gx )^2
+Gx (Gi Gi Gi Gi Gi Gx )^2Gx 
+Gx (Gi Gi Gi Gi Gi Gx )^2Gy 
+Gy (Gi Gi Gi Gi Gi Gx )^2
+Gy (Gi Gi Gi Gi Gi Gx )^2Gx 
+Gy (Gi Gi Gi Gi Gi Gx )^2Gy 
+Gx Gx (Gi Gi Gi Gi Gi Gx )^2
+Gx Gx (Gi Gi Gi Gi Gi Gx )^2Gx 
+Gx Gx (Gi Gi Gi Gi Gi Gx )^2Gy 
+(Gx Gy )^8
+(Gx Gy )^8Gx 
+(Gx Gy )^8Gy 
+Gx (Gx Gy )^8
+Gx (Gx Gy )^8Gx 
+Gx (Gx Gy )^8Gy 
+Gy (Gx Gy )^8
+Gy (Gx Gy )^8Gx 
+Gy (Gx Gy )^8Gy 
+Gx Gx (Gx Gy )^8
+Gx Gx (Gx Gy )^8Gx 
+Gx Gx (Gx Gy )^8Gy 
+(Gi Gi Gi Gi Gx Gy )^2
+(Gi Gi Gi Gi Gx Gy )^2Gx 
+(Gi Gi Gi Gi Gx Gy )^2Gy 
+Gx (Gi Gi Gi Gi Gx Gy )^2
+Gx (Gi Gi Gi Gi Gx Gy )^2Gx 
+Gx (Gi Gi Gi Gi Gx Gy )^2Gy 
+Gy (Gi Gi Gi Gi Gx Gy )^2
+Gy (Gi Gi Gi Gi Gx Gy )^2Gx 
+Gy (Gi Gi Gi Gi Gx Gy )^2Gy 
+Gx Gx (Gi Gi Gi Gi Gx Gy )^2
+Gx Gx (Gi Gi Gi Gi Gx Gy )^2Gx 
+Gx Gx (Gi Gi Gi Gi Gx Gy )^2Gy 
+(Gi Gi Gi Gi Gy Gx )^2
+(Gi Gi Gi Gi Gy Gx )^2Gx 
+(Gi Gi Gi Gi Gy Gx )^2Gy 
+Gx (Gi Gi Gi Gi Gy Gx )^2
+Gx (Gi Gi Gi Gi Gy Gx )^2Gx 
+Gx (Gi Gi Gi Gi Gy Gx )^2Gy 
+Gy (Gi Gi Gi Gi Gy Gx )^2
+Gy (Gi Gi Gi Gi Gy Gx )^2Gx 
+Gy (Gi Gi Gi Gi Gy Gx )^2Gy 
+Gx Gx (Gi Gi Gi Gi Gy Gx )^2
+Gx Gx (Gi Gi Gi Gi Gy Gx )^2Gx 
+Gx Gx (Gi Gi Gi Gi Gy Gx )^2Gy 
+(Gi Gi Gy Gx Gx Gx )^2
+(Gi Gi Gy Gx Gx Gx )^2Gx 
+(Gi Gi Gy Gx Gx Gx )^2Gy 
+Gx (Gi Gi Gy Gx Gx Gx )^2
+Gx (Gi Gi Gy Gx Gx Gx )^2Gx 
+Gx (Gi Gi Gy Gx Gx Gx )^2Gy 
+Gy (Gi Gi Gy Gx Gx Gx )^2
+Gy (Gi Gi Gy Gx Gx Gx )^2Gx 
+Gy (Gi Gi Gy Gx Gx Gx )^2Gy 
+Gx Gx (Gi Gi Gy Gx Gx Gx )^2
+Gx Gx (Gi Gi Gy Gx Gx Gx )^2Gx 
+Gx Gx (Gi Gi Gy Gx Gx Gx )^2Gy 
+(Gx Gx Gy Gy Gx Gy )^2
+(Gx Gx Gy Gy Gx Gy )^2Gx 
+(Gx Gx Gy Gy Gx Gy )^2Gy 
+Gx (Gx Gx Gy Gy Gx Gy )^2
+Gx (Gx Gx Gy Gy Gx Gy )^2Gx 
+Gx (Gx Gx Gy Gy Gx Gy )^2Gy 
+Gy (Gx Gx Gy Gy Gx Gy )^2
+Gy (Gx Gx Gy Gy Gx Gy )^2Gx 
+Gy (Gx Gx Gy Gy Gx Gy )^2Gy 
+Gx Gx (Gx Gx Gy Gy Gx Gy )^2
+Gx Gx (Gx Gx Gy Gy Gx Gy )^2Gx 
+Gx Gx (Gx Gx Gy Gy Gx Gy )^2Gy 
+(Gi Gi Gx Gx Gx Gy )^2
+(Gi Gi Gx Gx Gx Gy )^2Gx 
+(Gi Gi Gx Gx Gx Gy )^2Gy 
+Gx (Gi Gi Gx Gx Gx Gy )^2
+Gx (Gi Gi Gx Gx Gx Gy )^2Gx 
+Gx (Gi Gi Gx Gx Gx Gy )^2Gy 
+Gy (Gi Gi Gx Gx Gx Gy )^2
+Gy (Gi Gi Gx Gx Gx Gy )^2Gx 
+Gy (Gi Gi Gx Gx Gx Gy )^2Gy 
+Gx Gx (Gi Gi Gx Gx Gx Gy )^2
+Gx Gx (Gi Gi Gx Gx Gx Gy )^2Gx 
+Gx Gx (Gi Gi Gx Gx Gx Gy )^2Gy 
