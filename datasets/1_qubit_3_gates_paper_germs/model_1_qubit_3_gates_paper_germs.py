@@ -30,13 +30,13 @@ class _Module(GSTModelPack, RBModelPack):
         (("Gi", 0),),
         (("Gxpi2", 0),),
         (("Gypi2", 0),),
-        (("Gxpi2", 0), ("Gypi2", 0), ("Gi", 0)),
-        (("Gxpi2", 0), ("Gi", 0),    ("Gypi2", 0)),
-        (("Gxpi2", 0), ("Gi", 0),    ("Gi", 0)),
-        (("Gypi2", 0), ("Gi", 0),    ("Gi", 0)),
-        (("Gxpi2", 0), ("Gxpi2", 0), ("Gi", 0),    ("Gypi2", 0)),
-        (("Gxpi2", 0), ("Gypi2", 0), ("Gypi2", 0), ("Gi", 0)),
-        (("Gxpi2", 0), ("Gxpi2", 0), ("Gypi2", 0), ("Gxpi2", 0), ("Gypi2", 0), ("Gypi2", 0)),
+        (("Gi", 0), ("Gi", 0), ("Gi", 0), ("Gi", 0), ("Gi", 0), ("Gxpi2", 0)),
+        (("Gxpi2", 0), ("Gypi2", 0)),
+        (("Gi", 0), ("Gi", 0), ("Gi", 0), ("Gi", 0), ("Gxpi2", 0), ("Gypi2", 0)),
+        (("Gi", 0), ("Gi", 0), ("Gi", 0), ("Gi", 0), ("Gypi2", 0), ("Gxpi2", 0)),
+        (("Gi", 0), ("Gi", 0), ("Gypi2", 0), ("Gxpi2", 0), ("Gxpi2", 0), ("Gxpi2", 0)),
+        (("Gxpi2", 0), ("Gxpi2", 0), ("Gypi2", 0), ("Gypi2", 0), ("Gxpi2", 0), ("Gypi2", 0)),
+        (("Gi", 0), ("Gi", 0), ("Gxpi2", 0), ("Gxpi2", 0), ("Gxpi2", 0), ("Gypi2", 0)),
     ]
 
     _germs_lite = [
@@ -44,13 +44,13 @@ class _Module(GSTModelPack, RBModelPack):
         (("Gi", 0),),
         (("Gxpi2", 0),),
         (("Gypi2", 0),),
-        (("Gxpi2", 0), ("Gypi2", 0), ("Gi", 0)),
-        (("Gxpi2", 0), ("Gi", 0), ("Gypi2", 0)),
-        (("Gxpi2", 0), ("Gi", 0), ("Gi", 0)),
-        (("Gypi2", 0), ("Gi", 0), ("Gi", 0)),
-        (("Gxpi2", 0), ("Gxpi2", 0), ("Gi", 0), ("Gypi2", 0)),
-        (("Gxpi2", 0), ("Gypi2", 0), ("Gypi2", 0), ("Gi", 0)),
-        (("Gxpi2", 0), ("Gxpi2", 0), ("Gypi2", 0), ("Gxpi2", 0), ("Gypi2", 0), ("Gypi2", 0)),
+        (("Gi", 0), ("Gi", 0), ("Gi", 0), ("Gi", 0), ("Gi", 0), ("Gxpi2", 0)),
+        (("Gxpi2", 0), ("Gypi2", 0)),
+        (("Gi", 0), ("Gi", 0), ("Gi", 0), ("Gi", 0), ("Gxpi2", 0), ("Gypi2", 0)),
+        (("Gi", 0), ("Gi", 0), ("Gi", 0), ("Gi", 0), ("Gypi2", 0), ("Gxpi2", 0)),
+        (("Gi", 0), ("Gi", 0), ("Gypi2", 0), ("Gxpi2", 0), ("Gxpi2", 0), ("Gxpi2", 0)),
+        (("Gxpi2", 0), ("Gxpi2", 0), ("Gypi2", 0), ("Gypi2", 0), ("Gxpi2", 0), ("Gypi2", 0)),
+        (("Gi", 0), ("Gi", 0), ("Gxpi2", 0), ("Gxpi2", 0), ("Gxpi2", 0), ("Gypi2", 0)),
     ]
 
     _fiducials = [
