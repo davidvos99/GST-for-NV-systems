@@ -22,10 +22,10 @@ if __name__ == '__main__':
     proto = pygsti.protocols.GateSetTomography(target_model)
     results = proto.run(ds2)
 
-    results.write("results_used_for_paper/3_gates_echo/exp/TP/init_state=0")
+   # results.write("results_used_for_paper/3_gates_echo/exp/TP/init_state=0")
 
     #report
-    report = pygsti.report.construct_standard_report(
-        results, title="GST experimental data, 3 gates, init state=0, echo, TP", verbosity=2)
-    report.write_html("reports_used_for_paper/3_gates_echo/exp/TP/init_state=0", verbosity=2)
+   # report = pygsti.report.construct_standard_report(
+    #    results, title="GST experimental data, 3 gates, init state=0, echo, TP", verbosity=2)
+    #report.write_html("reports_used_for_paper/3_gates_echo/exp/TP/init_state=0", verbosity=2)
 
