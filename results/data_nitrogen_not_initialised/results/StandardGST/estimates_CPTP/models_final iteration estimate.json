@@ -1,0 +1,707 @@
+{
+    "module": "pygsti.models.explicitmodel",
+    "class": "ExplicitOpModel",
+    "version": 0,
+    "state_space": {
+        "module": "pygsti.baseobjs.statespace",
+        "class": "QubitSpace",
+        "version": 0,
+        "qudit_labels": [
+            0
+        ],
+        "qudit_udims": [
+            2
+        ],
+        "qubit_labels": [
+            0
+        ]
+    },
+    "basis": {
+        "module": "pygsti.baseobjs.basis",
+        "class": "BuiltinBasis",
+        "version": 0,
+        "name": "pp",
+        "sparse": false,
+        "state_space": {
+            "module": "pygsti.baseobjs.statespace",
+            "class": "QubitSpace",
+            "version": 0,
+            "qudit_labels": [
+                0
+            ],
+            "qudit_udims": [
+                2
+            ],
+            "qubit_labels": [
+                0
+            ]
+        }
+    },
+    "default_gate_type": "static",
+    "default_prep_type": [
+        "static"
+    ],
+    "default_povm_type": [
+        "static"
+    ],
+    "default_instrument_type": [
+        "static"
+    ],
+    "prep_prefix": "rho",
+    "effect_prefix": "E",
+    "gate_prefix": "G",
+    "povm_prefix": "M",
+    "instrument_prefix": "I",
+    "evotype": "densitymx",
+    "simulator": {
+        "module": "pygsti.forwardsims.matrixforwardsim",
+        "class": "MatrixForwardSimulator",
+        "version": 0,
+        "mode": "time_independent"
+    },
+    "default_gauge_group": {
+        "module": "pygsti.models.gaugegroup",
+        "class": "TPGaugeGroup",
+        "version": 0,
+        "state_space_dimension": 4,
+        "evotype": "densitymx"
+    },
+    "modelmembers": {
+        "0": {
+            "module": "pygsti.modelmembers.states.tpstate",
+            "class": "TPState",
+            "submembers": [],
+            "state_space": {
+                "module": "pygsti.baseobjs.statespace",
+                "class": "QubitSpace",
+                "version": 0,
+                "qudit_labels": [
+                    0
+                ],
+                "qudit_udims": [
+                    2
+                ],
+                "qubit_labels": [
+                    0
+                ]
+            },
+            "evotype": "densitymx",
+            "model_parameter_indices": [
+                0,
+                1,
+                2
+            ],
+            "relative_submember_parameter_indices": [],
+            "parameter_labels": [
+                "VecElement 1",
+                "VecElement 2",
+                "VecElement 3"
+            ],
+            "parameter_bounds": null,
+            "dense_superket_vector": [
+                0.7071067811865476,
+                -0.13042938851174307,
+                -0.1455555006621435,
+                -0.6510692360595162
+            ],
+            "memberdict_types": [
+                "preps"
+            ],
+            "memberdict_labels": [
+                "rho0"
+            ]
+        },
+        "1": {
+            "module": "pygsti.modelmembers.states.fullstate",
+            "class": "FullState",
+            "submembers": [],
+            "state_space": {
+                "module": "pygsti.baseobjs.statespace",
+                "class": "QubitSpace",
+                "version": 0,
+                "qudit_labels": [
+                    0
+                ],
+                "qudit_udims": [
+                    2
+                ],
+                "qubit_labels": [
+                    0
+                ]
+            },
+            "evotype": "densitymx",
+            "model_parameter_indices": [
+                3,
+                4,
+                5,
+                6
+            ],
+            "relative_submember_parameter_indices": [],
+            "parameter_labels": [
+                "VecElement Re(0)",
+                "VecElement Re(1)",
+                "VecElement Re(2)",
+                "VecElement Re(3)"
+            ],
+            "parameter_bounds": null,
+            "dense_superket_vector": [
+                0.9380426992953892,
+                0.13615610543811818,
+                0.011542641500031177,
+                0.4560309959917197
+            ]
+        },
+        "2": {
+            "module": "pygsti.modelmembers.povms.fulleffect",
+            "class": "FullPOVMEffect",
+            "submembers": [
+                1
+            ],
+            "state_space": {
+                "module": "pygsti.baseobjs.statespace",
+                "class": "QubitSpace",
+                "version": 0,
+                "qudit_labels": [
+                    0
+                ],
+                "qudit_udims": [
+                    2
+                ],
+                "qubit_labels": [
+                    0
+                ]
+            },
+            "evotype": "densitymx",
+            "model_parameter_indices": [
+                3,
+                4,
+                5,
+                6
+            ],
+            "relative_submember_parameter_indices": [
+                [
+                    0,
+                    1,
+                    2,
+                    3
+                ]
+            ],
+            "parameter_labels": null,
+            "parameter_bounds": null
+        },
+        "3": {
+            "module": "pygsti.modelmembers.povms.complementeffect",
+            "class": "ComplementPOVMEffect",
+            "submembers": [
+                2
+            ],
+            "state_space": {
+                "module": "pygsti.baseobjs.statespace",
+                "class": "QubitSpace",
+                "version": 0,
+                "qudit_labels": [
+                    0
+                ],
+                "qudit_udims": [
+                    2
+                ],
+                "qubit_labels": [
+                    0
+                ]
+            },
+            "evotype": "densitymx",
+            "model_parameter_indices": [
+                3,
+                4,
+                5,
+                6
+            ],
+            "relative_submember_parameter_indices": [
+                [
+                    0,
+                    1,
+                    2,
+                    3
+                ]
+            ],
+            "parameter_labels": null,
+            "parameter_bounds": null,
+            "identity_vector": [
+                1.4142135623730951,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        "4": {
+            "module": "pygsti.modelmembers.povms.tppovm",
+            "class": "TPPOVM",
+            "submembers": [
+                2,
+                3
+            ],
+            "state_space": {
+                "module": "pygsti.baseobjs.statespace",
+                "class": "QubitSpace",
+                "version": 0,
+                "qudit_labels": [
+                    0
+                ],
+                "qudit_udims": [
+                    2
+                ],
+                "qubit_labels": [
+                    0
+                ]
+            },
+            "evotype": "densitymx",
+            "model_parameter_indices": [
+                3,
+                4,
+                5,
+                6
+            ],
+            "relative_submember_parameter_indices": [
+                [
+                    0,
+                    1,
+                    2,
+                    3
+                ],
+                [
+                    0,
+                    1,
+                    2,
+                    3
+                ]
+            ],
+            "parameter_labels": [
+                "VecElement Re(0)",
+                "VecElement Re(1)",
+                "VecElement Re(2)",
+                "VecElement Re(3)"
+            ],
+            "parameter_bounds": null,
+            "effect_labels": [
+                "0",
+                "1"
+            ],
+            "memberdict_types": [
+                "povms"
+            ],
+            "memberdict_labels": [
+                "Mdefault"
+            ]
+        },
+        "5": {
+            "module": "pygsti.modelmembers.operations.fulltpop",
+            "class": "FullTPOp",
+            "submembers": [],
+            "state_space": {
+                "module": "pygsti.baseobjs.statespace",
+                "class": "QubitSpace",
+                "version": 0,
+                "qudit_labels": [
+                    0
+                ],
+                "qudit_udims": [
+                    2
+                ],
+                "qubit_labels": [
+                    0
+                ]
+            },
+            "evotype": "densitymx",
+            "model_parameter_indices": [
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ],
+            "relative_submember_parameter_indices": [],
+            "parameter_labels": [
+                "MxElement 1,0",
+                "MxElement 1,1",
+                "MxElement 1,2",
+                "MxElement 1,3",
+                "MxElement 2,0",
+                "MxElement 2,1",
+                "MxElement 2,2",
+                "MxElement 2,3",
+                "MxElement 3,0",
+                "MxElement 3,1",
+                "MxElement 3,2",
+                "MxElement 3,3"
+            ],
+            "parameter_bounds": null,
+            "dense_matrix": [
+                [
+                    1.0,
+                    0.0,
+                    0.0,
+                    1.0146536357569526e-17
+                ],
+                [
+                    -0.026336454076166686,
+                    0.8463296264092609,
+                    0.2794510372711669,
+                    -0.04320886736422257
+                ],
+                [
+                    0.0033255269245838458,
+                    -0.273337527135775,
+                    0.8445262481846431,
+                    0.10825074107278954
+                ],
+                [
+                    -0.0009378037952044167,
+                    0.07423728006218656,
+                    -0.08917836683683593,
+                    0.9909109071248847
+                ]
+            ],
+            "memberdict_types": [
+                "operations"
+            ],
+            "memberdict_labels": [
+                "Gi:0"
+            ]
+        },
+        "6": {
+            "module": "pygsti.modelmembers.operations.fulltpop",
+            "class": "FullTPOp",
+            "submembers": [],
+            "state_space": {
+                "module": "pygsti.baseobjs.statespace",
+                "class": "QubitSpace",
+                "version": 0,
+                "qudit_labels": [
+                    0
+                ],
+                "qudit_udims": [
+                    2
+                ],
+                "qubit_labels": [
+                    0
+                ]
+            },
+            "evotype": "densitymx",
+            "model_parameter_indices": [
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30
+            ],
+            "relative_submember_parameter_indices": [],
+            "parameter_labels": [
+                "MxElement 1,0",
+                "MxElement 1,1",
+                "MxElement 1,2",
+                "MxElement 1,3",
+                "MxElement 2,0",
+                "MxElement 2,1",
+                "MxElement 2,2",
+                "MxElement 2,3",
+                "MxElement 3,0",
+                "MxElement 3,1",
+                "MxElement 3,2",
+                "MxElement 3,3"
+            ],
+            "parameter_bounds": null,
+            "dense_matrix": [
+                [
+                    1.0000000000000002,
+                    0.0,
+                    -3.363896349075124e-16,
+                    2.2993471702930934e-17
+                ],
+                [
+                    -0.010323678352811094,
+                    0.944177279051153,
+                    0.02359913577520601,
+                    0.15134726765192802
+                ],
+                [
+                    -0.028695744129260188,
+                    0.04857696856838862,
+                    -0.36977864574318287,
+                    -0.8243787377255914
+                ],
+                [
+                    -0.017110454539681772,
+                    0.016965923951493538,
+                    0.8009746742700373,
+                    -0.3577621924360804
+                ]
+            ],
+            "memberdict_types": [
+                "operations"
+            ],
+            "memberdict_labels": [
+                "Gxpi2:0"
+            ]
+        },
+        "7": {
+            "module": "pygsti.modelmembers.operations.fulltpop",
+            "class": "FullTPOp",
+            "submembers": [],
+            "state_space": {
+                "module": "pygsti.baseobjs.statespace",
+                "class": "QubitSpace",
+                "version": 0,
+                "qudit_labels": [
+                    0
+                ],
+                "qudit_udims": [
+                    2
+                ],
+                "qubit_labels": [
+                    0
+                ]
+            },
+            "evotype": "densitymx",
+            "model_parameter_indices": [
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42
+            ],
+            "relative_submember_parameter_indices": [],
+            "parameter_labels": [
+                "MxElement 1,0",
+                "MxElement 1,1",
+                "MxElement 1,2",
+                "MxElement 1,3",
+                "MxElement 2,0",
+                "MxElement 2,1",
+                "MxElement 2,2",
+                "MxElement 2,3",
+                "MxElement 3,0",
+                "MxElement 3,1",
+                "MxElement 3,2",
+                "MxElement 3,3"
+            ],
+            "parameter_bounds": null,
+            "dense_matrix": [
+                [
+                    1.0000000000000002,
+                    3.363896349075124e-16,
+                    0.0,
+                    2.2993471702930934e-17
+                ],
+                [
+                    0.028618083993326802,
+                    -0.3775578549182515,
+                    -0.09706473644426053,
+                    0.8470292675629342
+                ],
+                [
+                    0.02434482637399421,
+                    0.08191393335298208,
+                    0.9041389050727265,
+                    0.14253615433415803
+                ],
+                [
+                    -0.1299016379829531,
+                    -0.8004880999660193,
+                    0.14198926901341255,
+                    -0.3079089188668224
+                ]
+            ],
+            "memberdict_types": [
+                "operations"
+            ],
+            "memberdict_labels": [
+                "Gypi2:0"
+            ]
+        },
+        "8": {
+            "module": "pygsti.modelmembers.operations.fulltpop",
+            "class": "FullTPOp",
+            "submembers": [],
+            "state_space": {
+                "module": "pygsti.baseobjs.statespace",
+                "class": "QubitSpace",
+                "version": 0,
+                "qudit_labels": [
+                    0
+                ],
+                "qudit_udims": [
+                    2
+                ],
+                "qubit_labels": [
+                    0
+                ]
+            },
+            "evotype": "densitymx",
+            "model_parameter_indices": [
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54
+            ],
+            "relative_submember_parameter_indices": [],
+            "parameter_labels": [
+                "MxElement 1,0",
+                "MxElement 1,1",
+                "MxElement 1,2",
+                "MxElement 1,3",
+                "MxElement 2,0",
+                "MxElement 2,1",
+                "MxElement 2,2",
+                "MxElement 2,3",
+                "MxElement 3,0",
+                "MxElement 3,1",
+                "MxElement 3,2",
+                "MxElement 3,3"
+            ],
+            "parameter_bounds": null,
+            "dense_matrix": [
+                [
+                    1.0,
+                    0.0,
+                    0.0,
+                    -1.0146536357569526e-17
+                ],
+                [
+                    0.008594667229721102,
+                    0.854759572180858,
+                    0.10527366069314965,
+                    -0.45679186774994196
+                ],
+                [
+                    -0.03677258772335366,
+                    0.061788273137520035,
+                    -0.9534395326650255,
+                    -0.1132014642474304
+                ],
+                [
+                    0.015636671921466914,
+                    -0.47280983956849487,
+                    0.05480939518955227,
+                    -0.8553202877377043
+                ]
+            ],
+            "memberdict_types": [
+                "operations"
+            ],
+            "memberdict_labels": [
+                "Gxpi:0"
+            ]
+        },
+        "9": {
+            "module": "pygsti.modelmembers.operations.fulltpop",
+            "class": "FullTPOp",
+            "submembers": [],
+            "state_space": {
+                "module": "pygsti.baseobjs.statespace",
+                "class": "QubitSpace",
+                "version": 0,
+                "qudit_labels": [
+                    0
+                ],
+                "qudit_udims": [
+                    2
+                ],
+                "qubit_labels": [
+                    0
+                ]
+            },
+            "evotype": "densitymx",
+            "model_parameter_indices": [
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66
+            ],
+            "relative_submember_parameter_indices": [],
+            "parameter_labels": [
+                "MxElement 1,0",
+                "MxElement 1,1",
+                "MxElement 1,2",
+                "MxElement 1,3",
+                "MxElement 2,0",
+                "MxElement 2,1",
+                "MxElement 2,2",
+                "MxElement 2,3",
+                "MxElement 3,0",
+                "MxElement 3,1",
+                "MxElement 3,2",
+                "MxElement 3,3"
+            ],
+            "parameter_bounds": null,
+            "dense_matrix": [
+                [
+                    1.0,
+                    0.0,
+                    0.0,
+                    -1.0146536357569526e-17
+                ],
+                [
+                    0.02497145905834628,
+                    -0.9611770222610508,
+                    -0.05569307695763405,
+                    0.08941120325607477
+                ],
+                [
+                    0.0057031535052575084,
+                    -0.06612241775832851,
+                    0.9482720388913174,
+                    -0.17964185032309268
+                ],
+                [
+                    -0.010420962253538448,
+                    -0.10243052372138503,
+                    -0.19604015802054736,
+                    -0.9630590522048614
+                ]
+            ],
+            "memberdict_types": [
+                "operations"
+            ],
+            "memberdict_labels": [
+                "Gypi:0"
+            ]
+        }
+    }
+}
